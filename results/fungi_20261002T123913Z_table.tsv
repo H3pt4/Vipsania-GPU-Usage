@@ -1,0 +1,660 @@
+species_taxid	species_name	genus	family	order	class	phylum	organism_name	n_assemblies_passing_filters	accession	refseq_category	assembly_name	assembly_level	release_date	total_sequence_length	annotated
+150365	Acrodontium crateriforme	Acrodontium	Teratosphaeriaceae	Mycosphaerellales	Dothideomycetes	Ascomycota	Acrodontium crateriforme	1	GCA_033807595.1	reference genome	ASM3380759v1	Complete Genome		23050344	yes
+5341	Agaricus bisporus	Agaricus	Agaricaceae	Agaricales	Agaricomycetes	Basidiomycota	Agaricus bisporus var. bisporus H97	8	GCA_000300575.2	reference genome	ASM30057v2	Chromosome		30417844	no
+264965	Agaricus langei	Agaricus	Agaricaceae	Agaricales	Agaricomycetes	Basidiomycota	Agaricus langei	1	GCA_987566535.1	reference genome	gfAgaLang1.hap1.1	Chromosome		38549964	no
+87252	Agaricus subrufescens	Agaricus	Agaricaceae	Agaricales	Agaricomycetes	Basidiomycota	Agaricus subrufescens	1	GCA_029945375.1	reference genome	Asub-V01	Chromosome		44531294	no
+71668	Agrocybe praecox	Agrocybe	Agrocybaceae	Agaricales	Agaricomycetes	Basidiomycota	Agrocybe praecox	1	GCA_964017145.1	reference genome	gfAgrPrae1.1	Chromosome		59234987	no
+2231603	Akanthomyces muscarius	Akanthomyces	Cordycipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Akanthomyces muscarius	2	GCF_028009165.1	reference genome	ASM2800916v1	Chromosome		36207525	yes
+1484957	Allantophomopsis cytisporea	Allantophomopsis	Phacidiaceae	Phacidiales	Leotiomycetes	Ascomycota	Allantophomopsis cytisporea	1	GCA_024752435.1	reference genome	ASM2475243v1	Complete Genome		34816014	no
+334518	Allantophomopsis lycopodina	Allantophomopsis	Phacidiaceae	Phacidiales	Leotiomycetes	Ascomycota	Allantophomopsis lycopodina	1	GCA_024752465.1	reference genome	ASM2475246v1	Complete Genome		33865253	no
+5599	Alternaria alternata	Alternaria	Pleosporaceae	Pleosporales	Dothideomycetes	Ascomycota	Alternaria alternata	7	GCA_058640675.1		ASM5864067v1	Complete Genome		34204759	no
+156630	Alternaria arborescens	Alternaria	Pleosporaceae	Pleosporales	Dothideomycetes	Ascomycota	Alternaria arborescens	2	GCA_056822685.1		DET2035_auto_new	Complete Genome		33172085	no
+29911	Alternaria brassicae	Alternaria	Pleosporaceae	Pleosporales	Dothideomycetes	Ascomycota	Alternaria brassicae	3	GCA_036768465.1	reference genome	ASM3676846v1	Complete Genome		33821513	no
+48095	Alternaria dauci	Alternaria	Pleosporaceae	Pleosporales	Dothideomycetes	Ascomycota	Alternaria dauci	2	GCF_042100115.1	reference genome	ASM4210011v1	Complete Genome		34906709	yes
+1568907	Alternaria linariae	Alternaria	Pleosporaceae	Pleosporales	Dothideomycetes	Ascomycota	Alternaria linariae	1	GCA_047834895.1	reference genome	ASM4783489v1	Chromosome		33101064	no
+160389	Alternaria longipes	Alternaria	Pleosporaceae	Pleosporales	Dothideomycetes	Ascomycota	Alternaria longipes	1	GCA_019059555.1	reference genome	ASM1905955v1	Chromosome		39426105	no
+48100	Alternaria solani	Alternaria	Pleosporaceae	Pleosporales	Dothideomycetes	Ascomycota	Alternaria solani	2	GCA_002952155.1	reference genome	ASM295215v1	Complete Genome		32779142	no
+2803130	Alternaria sp. KAS1274	Alternaria	Pleosporaceae	Pleosporales	Dothideomycetes	Ascomycota	Alternaria sp. KAS1274	1	GCA_056882415.1		KAS1274_auto_new.fasta	Complete Genome		33752796	no
+67723	Amanita phalloides	Amanita	Amanitaceae	Agaricales	Agaricomycetes	Basidiomycota	Amanita phalloides	1	GCA_986918535.1	reference genome	gfAmaPhal2.hap1.1	Chromosome		39133027	no
+71933	Amanita rubescens	Amanita	Amanitaceae	Agaricales	Agaricomycetes	Basidiomycota	Amanita rubescens	1	GCA_965266955.1	reference genome	gfAmaRube1.hap1.1	Chromosome		34096625	no
+3417506	Amblyosporidae sp. gmOTU1 Ox002633		Amblyosporidae			Microsporidia	Amblyosporidae sp. gmOTU1 Ox002633	2	GCA_985568275.1		iuLoeVari1.microsporidian_1.hap1.1	Chromosome		17120065	no
+56467	Ampulloclitocybe clavipes	Ampulloclitocybe	Hygrophoraceae	Agaricales	Agaricomycetes	Basidiomycota	Ampulloclitocybe clavipes	1	GCA_982296955.1		gfAmpClav1.hap1.1	Chromosome		101224673	no
+2857486	Annulohypoxylon sp. FPYF3050	Annulohypoxylon	Hypoxylaceae	Xylariales	Sordariomycetes	Ascomycota	Annulohypoxylon sp. FPYF3050	1	GCA_040104375.1		ASM4010437v1	Complete Genome		43344577	yes
+326628	Annulohypoxylon stygium	Annulohypoxylon	Hypoxylaceae	Xylariales	Sordariomycetes	Ascomycota	Annulohypoxylon stygium	2	GCA_040126005.1	reference genome	TJAS01	Complete Genome		38763155	no
+249478	Anthracocystis panici-leucophaei	Anthracocystis	Ustilaginaceae	Ustilaginales	Ustilaginomycetes	Basidiomycota	Anthracocystis panici-leucophaei	1	GCA_014826065.1	reference genome	ASM1482606v1	Complete Genome		18837883	no
+278021	Antonospora locustae	Antonospora				Microsporidia	Antonospora locustae	1	GCA_007674295.1	reference genome	ASM767429v1	Chromosome		3171376	no
+252803	Apiotrichum mycotoxinovorans	Apiotrichum	Trichosporonaceae	Trichosporonales	Tremellomycetes	Basidiomycota	Apiotrichum mycotoxinovorans	2	GCA_013177335.1	reference genome	ASM1317733v1	Complete Genome		30749651	no
+3440260	Arachnomyces sp. KDTOL00113	Arachnomyces	Arachnomycetaceae	Onygenales	Eurotiomycetes	Ascomycota	Arachnomyces sp. KDTOL00113	1	GCA_949709995.1		gpAraPeru1.1	Chromosome		34558840	no
+47752	Arachnopeziza aurata	Arachnopeziza	Arachnopezizaceae	Helotiales	Leotiomycetes	Ascomycota	Arachnopeziza aurata	1	GCA_051247085.1	reference genome	RWTH_Aaurat_2.3	Complete Genome		43078696	no
+742136	Arachnopeziza aurelia	Arachnopeziza	Arachnopezizaceae	Helotiales	Leotiomycetes	Ascomycota	Arachnopeziza aurelia	1	GCA_051247835.1	reference genome	RWTH_Aaurel_2.3	Complete Genome		46346353	no
+79815	Arcopilus aureus	Arcopilus	Chaetomiaceae	Sordariales	Sordariomycetes	Ascomycota	Arcopilus aureus	1	GCA_054372435.1	reference genome	ASM5437243v1	Chromosome		33771076	no
+47428	Armillaria ostoyae	Armillaria	Physalacriaceae	Agaricales	Agaricomycetes	Basidiomycota	Armillaria ostoyae	2	GCA_902506015.1	reference genome	ARMOSTPCHR	Chromosome		56666185	no
+205686	Ascochyta lentis	Ascochyta	Didymellaceae	Pleosporales	Dothideomycetes	Ascomycota	Ascochyta lentis	2	GCA_016097375.2	reference genome	AlKewell	Complete Genome		41659906	yes
+749586	Ascochyta pisi	Ascochyta	Didymellaceae	Pleosporales	Dothideomycetes	Ascomycota	Ascochyta pisi	1	GCA_039634435.1	reference genome	ASM3963443v1	Complete Genome		41378690	no
+5454	Ascochyta rabiei	Ascochyta	Didymellaceae	Pleosporales	Dothideomycetes	Ascomycota	Ascochyta rabiei	3	GCF_004011695.2	reference genome	ASM401169v2	Complete Genome		40846718	yes
+41067	Aspergillus candidus	Aspergillus	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Aspergillus candidus	1	GCA_059056005.1		AspCandMKA05_1	Complete Genome		29109717	yes
+182096	Aspergillus chevalieri	Aspergillus	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Aspergillus chevalieri	2	GCF_016861735.1	reference genome	AchevalieriM1_assembly01	Complete Genome		29697343	yes
+573508	Aspergillus cristatus	Aspergillus	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Aspergillus cristatus	3	GCA_054825215.1	reference genome	ASM5482521v1	Complete Genome		28285435	no
+1287682	Aspergillus felis	Aspergillus	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Aspergillus felis	1	GCA_016413765.1	reference genome	ASM1641376v1	Complete Genome		33030366	no
+5059	Aspergillus flavus	Aspergillus	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Aspergillus flavus	25	GCF_009017415.1	reference genome	ASM901741v1	Complete Genome		37749288	yes
+746128	Aspergillus fumigatus	Aspergillus	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Aspergillus fumigatus Af293	20	GCF_000002655.1	reference genome	ASM265v1	Chromosome		29384958	yes
+1069201	Aspergillus luchuensis	Aspergillus	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Aspergillus luchuensis	3	GCF_016861625.1	reference genome	AkawachiiIFO4308_assembly01	Complete Genome		37256495	yes
+656917	Aspergillus minisclerotigenes	Aspergillus	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Aspergillus minisclerotigenes	1	GCA_028505775.1	reference genome	ASM2850577v1	Chromosome		38025472	no
+162425	Aspergillus nidulans	Aspergillus	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Aspergillus nidulans FGSC A4	3	GCF_000011425.1	reference genome	ASM1142v1	Chromosome		29828291	yes
+5061	Aspergillus niger	Aspergillus	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Aspergillus niger	6	GCA_047651775.1		ASM4765177v1	Complete Genome		35403962	no
+5062	Aspergillus oryzae	Aspergillus	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Aspergillus oryzae RIB40	15	GCF_000184455.2	reference genome	ASM18445v3	Chromosome		37882812	yes
+1220207	Aspergillus puulaauensis	Aspergillus	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Aspergillus puulaauensis	2	GCF_016861865.1	reference genome	ApuulaauensisMK2_assembly01	Complete Genome		34318862	yes
+41058	Aspergillus sojae	Aspergillus	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Aspergillus sojae	1	GCA_008274985.1	reference genome	ASM827498v1	Complete Genome		40106795	no
+5068	Aspergillus tubingensis	Aspergillus	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Aspergillus tubingensis	1	GCA_049803905.1		UCR_Atub_DFA_1.0	Complete Genome		35447888	yes
+1341132	Aspergillus welwitschiae	Aspergillus	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Aspergillus welwitschiae	1	GCA_030015405.1		BCSIR_ Awel_1.0	Chromosome		37795174	no
+5066	Aspergillus wentii	Aspergillus	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Aspergillus wentii	1	GCA_046000195.1		Awentii_warwick	Complete Genome		31224183	yes
+46634	Aureobasidium melanogenum	Aureobasidium	Saccotheciaceae	Dothideales	Dothideomycetes	Ascomycota	Aureobasidium melanogenum	2	GCA_017949455.1		ASM1794945v1	Complete Genome		25815102	no
+5580	Aureobasidium pullulans	Aureobasidium	Saccotheciaceae	Dothideales	Dothideomycetes	Ascomycota	Aureobasidium pullulans	3	GCA_982436715.1		apul_EXF-150	Chromosome		30168053	yes
+388837	Aureoboletus gentilis	Aureoboletus	Boletaceae	Boletales	Agaricomycetes	Basidiomycota	Aureoboletus gentilis	1	GCA_965113095.1	reference genome	gfAurGent2.1	Chromosome		40958937	no
+3103959	Auricularia sp. M12	Auricularia	Auriculariaceae	Auriculariales	Agaricomycetes	Basidiomycota	Auricularia sp. M12	1	GCA_037042885.1		ASM3704288v1	Chromosome		54600822	no
+3103960	Auricularia sp. M13	Auricularia	Auriculariaceae	Auriculariales	Agaricomycetes	Basidiomycota	Auricularia sp. M13	1	GCA_037042915.1		ASM3704291v1	Chromosome		52096326	no
+291208	Australozyma saopauloensis	Australozyma	Metschnikowiaceae	Serinales	Pichiomycetes	Ascomycota	Australozyma saopauloensis	2	GCF_035610405.1	reference genome	ASM3561040v1	Complete Genome		12068158	yes
+181123	Austropuccinia psidii	Austropuccinia	Sphaerophragmiaceae	Pucciniales	Pucciniomycetes	Basidiomycota	Austropuccinia psidii	2	GCA_023105745.2	reference genome	Au3_v3_hapA	Chromosome		1073490195	no
+3367072	Barnettozyma discipulorum	Barnettozyma	Phaffomycetaceae	Phaffomycetales	Saccharomycetes	Ascomycota	Barnettozyma discipulorum	1	GCA_049863505.1		ASM4986350v1	Complete Genome		11601687	no
+109871	Batrachochytrium dendrobatidis	Batrachochytrium		Rhizophydiales	Chytridiomycetes	Chytridiomycota	Batrachochytrium dendrobatidis	1	GCA_048537975.1		CMM_BatrDend_JEL423_V3	Chromosome		24503761	yes
+176275	Beauveria bassiana	Beauveria	Cordycipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Beauveria bassiana	1	GCA_014607475.1		ASM1460747v1	Complete Genome		37134214	no
+1918533	Bipolaris sivanesaniana	Bipolaris	Pleosporaceae	Pleosporales	Dothideomycetes	Ascomycota	Bipolaris sivanesaniana	1	GCA_055773965.2	reference genome	ASM5577396v2	Chromosome		34026440	yes
+45130	Bipolaris sorokiniana	Bipolaris	Pleosporaceae	Pleosporales	Dothideomycetes	Ascomycota	Bipolaris sorokiniana	6	GCA_033006315.1		ASM3300631v1	Chromosome		36481130	no
+5017	Bipolaris zeicola	Bipolaris	Pleosporaceae	Pleosporales	Dothideomycetes	Ascomycota	Bipolaris zeicola	1	GCA_026367875.1		ASM2636787v1	Complete Genome		32215838	no
+110534	Biscogniauxia marginata	Biscogniauxia	Xylariaceae	Xylariales	Sordariomycetes	Ascomycota	Biscogniauxia marginata	1	GCA_061099175.1	reference genome	CBS598.82v1	Complete Genome		47488274	no
+409370	Blastobotrys adeninivorans	Blastobotrys	Trichomonascaceae	Dipodascales	Dipodascomycetes	Ascomycota	Blastobotrys adeninivorans	1	GCA_900007795.1	reference genome	NU_PRJEB4557_V1_assembly	Chromosome		11804616	yes
+191333	Blastobotrys allociferrii	Blastobotrys	Trichomonascaceae	Dipodascales	Dipodascomycetes	Ascomycota	Blastobotrys allociferrii	2	GCA_045529695.1	reference genome	ASM4552969v1	Complete Genome		19872612	no
+44072	Blastobotrys aristatus	Blastobotrys	Trichomonascaceae	Dipodascales	Dipodascomycetes	Ascomycota	Blastobotrys aristatus	1	GCA_946409495.1	reference genome	Wolfe_Bari_UCD613	Complete Genome		13192792	no
+191334	Blastobotrys mucifer	Blastobotrys	Trichomonascaceae	Dipodascales	Dipodascomycetes	Ascomycota	Blastobotrys mucifer	1	GCA_036871495.1	reference genome	ASM3687149v1	Complete Genome		16402853	no
+34373	Blumeria graminis	Blumeria	Erysiphaceae	Helotiales	Leotiomycetes	Ascomycota	Blumeria graminis f. sp. triticale	2	GCA_905067625.1	reference genome	Bgtriticale_THUN12_genome_v1_2	Chromosome		141403166	yes
+36056	Boletus edulis	Boletus	Boletaceae	Boletales	Agaricomycetes	Basidiomycota	Boletus edulis	1	GCA_054741165.1	reference genome	BolEdBiel_h2	Chromosome		41815337	no
+40559	Botrytis cinerea	Botrytis	Sclerotiniaceae	Helotiales	Leotiomycetes	Ascomycota	Botrytis cinerea B05.10	4	GCF_000143535.2	reference genome	ASM14353v4	Complete Genome		42630066	yes
+182092	Botrytis fabae	Botrytis	Sclerotiniaceae	Helotiales	Leotiomycetes	Ascomycota	Botrytis fabae	1	GCA_032594075.1	reference genome	ASM3259407v1	Complete Genome		44982877	no
+5007	Brettanomyces bruxellensis	Brettanomyces	Pichiaceae	Pichiales	Pichiomycetes	Ascomycota	Brettanomyces bruxellensis	2	GCF_011074885.1	reference genome	ASM1107488v2	Complete Genome		13150648	yes
+13502	Brettanomyces nanus	Brettanomyces	Pichiaceae	Pichiales	Pichiomycetes	Ascomycota	Brettanomyces nanus	2	GCF_011074865.1	reference genome	ASM1107486v2	Complete Genome		10117252	yes
+398411	Brunneochlamydosporium nepalense	Brunneochlamydosporium	Plectosphaerellaceae	Glomerellales	Sordariomycetes	Ascomycota	Brunneochlamydosporium nepalense	1	GCA_059058825.1	reference genome	ASM5905882v1	Complete Genome		43542924	no
+2820146	Buchwaldoboletus xylophilus	Buchwaldoboletus	Boletaceae	Boletales	Agaricomycetes	Basidiomycota	Buchwaldoboletus xylophilus	1	GCA_054960005.1	reference genome	ASM5496000v1	Chromosome		29450877	no
+857007	Butyriboletus subappendiculatus	Butyriboletus	Boletaceae	Boletales	Agaricomycetes	Basidiomycota	Butyriboletus subappendiculatus	1	GCA_964213195.1	reference genome	gfButSuba1.1	Chromosome		31639639	no
+393245	Calonarius cisticola	Calonarius	Cortinariaceae	Agaricales	Agaricomycetes	Basidiomycota	Calonarius cisticola	1	GCA_985558025.1	reference genome	gfCorCist1.hap1.1	Chromosome		47802810	no
+304747	Calonarius elegantissimus	Calonarius	Cortinariaceae	Agaricales	Agaricomycetes	Basidiomycota	Calonarius elegantissimus	1	GCA_987114515.1	reference genome	gfCorElea2.hap1.1	Chromosome		50087202	no
+222050	Calonarius splendens	Calonarius	Cortinariaceae	Agaricales	Agaricomycetes	Basidiomycota	Calonarius splendens	1	GCA_986708625.1	reference genome	gfCorSple3.hap1.1	Chromosome		39718336	no
+182845	Calonectria ilicicola	Calonectria	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Calonectria ilicicola	5	GCA_046630685.1	reference genome	ASM4663068v1	Complete Genome		70901486	no
+5476	Candida albicans	Candida	Debaryomycetaceae	Serinales	Pichiomycetes	Ascomycota	Candida albicans SC5314	16	GCF_000182965.3	reference genome	ASM18296v3	Chromosome		14282666	yes
+42374	Candida dubliniensis	Candida	Debaryomycetaceae	Serinales	Pichiomycetes	Ascomycota	Candida dubliniensis CD36	2	GCF_000026945.1	reference genome	ASM2694v1	Complete Genome		14618422	yes
+5482	Candida tropicalis	Candida	Debaryomycetaceae	Serinales	Pichiomycetes	Ascomycota	Candida tropicalis	2	GCA_049862575.1		ASM4986257v1	Complete Genome		14609521	no
+498019	Candidozyma auris	Candidozyma	Metschnikowiaceae	Serinales	Pichiomycetes	Ascomycota	Candidozyma auris	167	GCF_003013715.1	reference genome	ASM301371v2	Complete Genome		12249773	yes
+644821	Candidozyma chanthaburiensis	Candidozyma	Metschnikowiaceae	Serinales	Pichiomycetes	Ascomycota	Candidozyma chanthaburiensis	1	GCA_059995325.1	reference genome	ASM5999532v1	Complete Genome		13103274	no
+1231522	Candidozyma duobushaemuli	Candidozyma	Metschnikowiaceae	Serinales	Pichiomycetes	Ascomycota	Candidozyma duobushaemuli	1	GCA_059995055.1		ASM5999505v1	Complete Genome		12732556	no
+45357	Candidozyma haemuli	Candidozyma	Metschnikowiaceae	Serinales	Pichiomycetes	Ascomycota	Candidozyma haemuli	3	GCA_059994995.1		ASM5999499v1	Complete Genome		13357196	no
+487108	Candidozyma heveicola	Candidozyma	Metschnikowiaceae	Serinales	Pichiomycetes	Ascomycota	Candidozyma heveicola	1	GCA_059994825.1	reference genome	ASM5999482v1	Complete Genome		13045923	no
+1170579	Candidozyma konsanensis	Candidozyma	Metschnikowiaceae	Serinales	Pichiomycetes	Ascomycota	Candidozyma konsanensis	1	GCA_059995295.1	reference genome	ASM5999529v1	Complete Genome		13101961	no
+3242289	Candidozyma molenica	Candidozyma	Metschnikowiaceae	Serinales	Pichiomycetes	Ascomycota	Candidozyma molenica	4	GCA_051101175.1		CBS18490_v3_manual	Complete Genome		13228459	no
+2599655	Candidozyma ohialehuae	Candidozyma	Metschnikowiaceae	Serinales	Pichiomycetes	Ascomycota	Candidozyma ohialehuae	1	GCA_059995115.1	reference genome	ASM5999511v1	Complete Genome		13261160	no
+418784	Candidozyma pseudohaemuli	Candidozyma	Metschnikowiaceae	Serinales	Pichiomycetes	Ascomycota	Candidozyma pseudohaemuli	1	GCA_059995085.1		ASM5999508v1	Complete Genome		12845089	no
+1276169	Candidozyma ruelliae	Candidozyma	Metschnikowiaceae	Serinales	Pichiomycetes	Ascomycota	Candidozyma ruelliae	1	GCA_059995265.1	reference genome	ASM5999526v1	Complete Genome		13506791	no
+2093215	Candidozyma vulturna	Candidozyma	Metschnikowiaceae	Serinales	Pichiomycetes	Ascomycota	Candidozyma vulturna	3	GCA_059994965.1	reference genome	ASM5999496v1	Complete Genome		12884884	no
+5570	Cenococcum geophilum	Cenococcum	Gloniaceae	Gloniales	Dothideomycetes	Ascomycota	Cenococcum geophilum	1	GCA_050273025.1		ASM5027302v1	Chromosome		178415830	yes
+76351	Ceratobasidium cereale	Ceratobasidium	Ceratobasidiaceae	Cantharellales	Agaricomycetes	Basidiomycota	Ceratobasidium cereale	2	GCA_049000075.1	reference genome	R0301.hap1	Complete Genome		41500454	no
+170446	Ceratobasidium sp. AG-Ba	Ceratobasidium	Ceratobasidiaceae	Cantharellales	Agaricomycetes	Basidiomycota	Ceratobasidium sp. AG-Ba	2	GCA_016906555.1		ASM1690655v1	Complete Genome		48401997	yes
+122368	Cercospora beticola	Cercospora	Mycosphaerellaceae	Mycosphaerellales	Dothideomycetes	Ascomycota	Cercospora beticola	5	GCF_033473495.1	reference genome	ASM3347349v1	Complete Genome		36074111	yes
+706553	Cercospora janseana	Cercospora	Mycosphaerellaceae	Mycosphaerellales	Dothideomycetes	Ascomycota	Cercospora janseana	1	GCA_026725115.1	reference genome	Cjan_RL44_1.0	Chromosome		39019791	no
+438356	Cercospora sojina	Cercospora	Mycosphaerellaceae	Mycosphaerellales	Dothideomycetes	Ascomycota	Cercospora sojina	3	GCA_024499215.1	reference genome	ASM2449921v1	Complete Genome		40122142	no
+2929575	Cercospora sp. J1 LZ-2022	Cercospora	Mycosphaerellaceae	Mycosphaerellales	Dothideomycetes	Ascomycota	Cercospora sp. J1 LZ-2022	1	GCA_022965775.1		ASM2296577v1	Complete Genome		33143880	no
+190013	Chlorophyllum brunneum	Chlorophyllum	Agaricaceae	Agaricales	Agaricomycetes	Basidiomycota	Chlorophyllum brunneum	1	GCA_963576785.1	reference genome	gfChlBrun1.1	Chromosome		38856969	no
+2029752	Chrysoporthe puriensis	Chrysoporthe	Cryphonectriaceae	Diaporthales	Sordariomycetes	Ascomycota	Chrysoporthe puriensis	1	GCA_015678955.1	reference genome	ASM1567895v1	Complete Genome		44539370	no
+491253	Cladobotryum mycophilum	Cladobotryum	Hypocreaceae	Hypocreales	Sordariomycetes	Ascomycota	Cladobotryum mycophilum	1	GCA_036429605.1	reference genome	ASM3642960v1	Chromosome		40603195	yes
+3472415	Cladobotryum sp. ATHUM 6904	Cladobotryum	Hypocreaceae	Hypocreales	Sordariomycetes	Ascomycota	Cladobotryum sp. ATHUM 6904	1	GCA_054824665.1		ASM5482466v1	Chromosome		41007047	no
+50926	Cladonia diversa	Cladonia	Cladoniaceae	Lecanorales	Lecanoromycetes	Ascomycota	Cladonia diversa	1	GCA_964605785.1	reference genome	glClaDive1.1	Chromosome		35919776	no
+50943	Cladonia portentosa	Cladonia	Cladoniaceae	Lecanorales	Lecanoromycetes	Ascomycota	Cladonia portentosa	1	GCA_965153415.1	reference genome	glClaPort1.1	Chromosome		35063374	no
+3420003	Cladonia rubrotincta	Cladonia	Cladoniaceae	Lecanorales	Lecanoromycetes	Ascomycota	Cladonia rubrotincta	1	GCA_963971245.1		glClaNorv1.1	Chromosome		32251759	no
+174074	Cladonia squamosa	Cladonia	Cladoniaceae	Lecanorales	Lecanoromycetes	Ascomycota	Cladonia squamosa	1	GCA_947623385.2	reference genome	glClaSqua9.2	Chromosome		38047994	no
+264083	Clavaria fumosa	Clavaria	Clavariaceae	Agaricales	Agaricomycetes	Basidiomycota	Clavaria fumosa	1	GCA_951802425.1	reference genome	gfClaFumo1.1	Chromosome		48519613	no
+68753	Clavariadelphus pistillaris	Clavariadelphus	Clavariadelphaceae	Gomphales	Agaricomycetes	Basidiomycota	Clavariadelphus pistillaris	1	GCA_982319285.1	reference genome	gfClaPist2.1	Chromosome		265463582	no
+5111	Claviceps purpurea	Claviceps	Clavicipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Claviceps purpurea	4	GCA_056957025.1	reference genome	ASM5695702v1	Complete Genome		32967030	no
+36911	Clavispora lusitaniae	Clavispora	Metschnikowiaceae	Serinales	Pichiomycetes	Ascomycota	Clavispora lusitaniae	6	GCA_009498055.1		ASM949805v1	Complete Genome		12081832	yes
+648681	Clitopilus hobsonii	Clitopilus	Entolomataceae	Agaricales	Agaricomycetes	Basidiomycota	Clitopilus hobsonii	1	GCA_015708445.2	reference genome	ASM1570844v2	Complete Genome		36926258	no
+71936	Clitopilus prunulus	Clitopilus	Entolomataceae	Agaricales	Agaricomycetes	Basidiomycota	Clitopilus prunulus	2	GCA_965649405.1	reference genome	gfCliPrun1.hap2.1	Chromosome		37122506	no
+29856	Clonostachys rosea	Clonostachys	Bionectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Clonostachys rosea	2	GCA_054828895.1	reference genome	ASM5482889v1	Complete Genome		56916760	no
+199306	Coccidioides posadasii	Coccidioides	Onygenaceae	Onygenales	Eurotiomycetes	Ascomycota	Coccidioides posadasii str. Silveira	2	GCF_018416015.2	reference genome	ASM1841601v2	Complete Genome		28193268	yes
+343994	Colletotrichum cereale	Colletotrichum	Glomerellaceae	Glomerellales	Sordariomycetes	Ascomycota	Colletotrichum cereale	1	GCA_060231475.1	reference genome	6B	Complete Genome		57980704	no
+34406	Colletotrichum destructivum	Colletotrichum	Glomerellaceae	Glomerellales	Sordariomycetes	Ascomycota	Colletotrichum destructivum	2	GCF_034447905.1	reference genome	ASM3444790v1	Complete Genome		51750812	yes
+690256	Colletotrichum fructicola	Colletotrichum	Glomerellaceae	Glomerellales	Sordariomycetes	Ascomycota	Colletotrichum fructicola	3	GCA_039271565.1		ASM3927156v1	Complete Genome		56410981	no
+1543685	Colletotrichum gigasporum	Colletotrichum	Glomerellaceae	Glomerellales	Sordariomycetes	Ascomycota	Colletotrichum gigasporum	1	GCA_024584535.1	reference genome	ASM2458453v1	Complete Genome		86997423	no
+31870	Colletotrichum graminicola	Colletotrichum	Glomerellaceae	Glomerellales	Sordariomycetes	Ascomycota	Colletotrichum graminicola	1	GCA_029226625.1		ASM2922662v1	Chromosome		57426633	yes
+80884	Colletotrichum higginsianum	Colletotrichum	Glomerellaceae	Glomerellales	Sordariomycetes	Ascomycota	Colletotrichum higginsianum IMI 349063	2	GCF_001672515.1	reference genome	ASM167251v1	Chromosome		50716103	yes
+2283408	Colletotrichum jinshuiense	Colletotrichum	Glomerellaceae	Glomerellales	Sordariomycetes	Ascomycota	Colletotrichum jinshuiense	2	GCF_051148585.1	reference genome	ASM5114858v1	Complete Genome		52104089	yes
+500171	Colletotrichum lini	Colletotrichum	Glomerellaceae	Glomerellales	Sordariomycetes	Ascomycota	Colletotrichum lini	4	GCA_059492005.1	reference genome	EIMB_Clin_655-1_1.0	Complete Genome		54657639	no
+145971	Colletotrichum lupini	Colletotrichum	Glomerellaceae	Glomerellales	Sordariomycetes	Ascomycota	Colletotrichum lupini	2	GCF_023278565.1	reference genome	ASM2327856v1	Complete Genome		63407421	yes
+690259	Colletotrichum siamense	Colletotrichum	Glomerellaceae	Glomerellales	Sordariomycetes	Ascomycota	Colletotrichum siamense	1	GCA_038023885.1		ASM3802388v1	Complete Genome		56819887	no
+123925	Collybia sordida	Collybia	Clitocybaceae	Agaricales	Agaricomycetes	Basidiomycota	Collybia sordida	5	GCA_061208565.1	reference genome	ASM6120856v1	Complete Genome		43748370	no
+71703	Coprinellus disseminatus	Coprinellus	Psathyrellaceae	Agaricales	Agaricomycetes	Basidiomycota	Coprinellus disseminatus	1	GCA_059510685.1	reference genome	Cdis_T2T_v1	Complete Genome		54414460	no
+71704	Coprinellus domesticus	Coprinellus	Psathyrellaceae	Agaricales	Agaricomycetes	Basidiomycota	Coprinellus domesticus	1	GCA_059510655.1	reference genome	Cdom_T2T_v1	Complete Genome		38579996	no
+71717	Coprinellus micaceus	Coprinellus	Psathyrellaceae	Agaricales	Agaricomycetes	Basidiomycota	Coprinellus micaceus	1	GCA_951394405.1	reference genome	gfCopMica1.1	Chromosome		51963485	no
+71721	Coprinellus radians	Coprinellus	Psathyrellaceae	Agaricales	Agaricomycetes	Basidiomycota	Coprinellus radians	1	GCA_059510645.1	reference genome	Crad_T2T_v1	Complete Genome		46013580	no
+2060651	Coprinellus saccharinus	Coprinellus	Psathyrellaceae	Agaricales	Agaricomycetes	Basidiomycota	Coprinellus saccharinus	1	GCA_059941275.1	reference genome	CSA_T2T	Complete Genome		54809402	no
+3799851	Coprinellus sp. DJL-31	Coprinellus	Psathyrellaceae	Agaricales	Agaricomycetes	Basidiomycota	Coprinellus sp. DJL-31	1	GCA_060361605.1		ASM6036160v1	Chromosome		54916839	no
+71727	Coprinellus xanthothrix	Coprinellus	Psathyrellaceae	Agaricales	Agaricomycetes	Basidiomycota	Coprinellus xanthothrix	1	GCA_059941265.1	reference genome	CXA_T2T	Complete Genome		46920418	no
+71694	Coprinopsis atramentaria	Coprinopsis	Psathyrellaceae	Agaricales	Agaricomycetes	Basidiomycota	Coprinopsis atramentaria	1	GCA_977065745.1	reference genome	gfCopAtra1.hap1.1	Chromosome		53869761	no
+983339	Cordyceps cateniannulata	Cordyceps	Cordycipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Cordyceps cateniannulata	1	GCA_056505955.1	reference genome	ASM5650595v1	Complete Genome		32707717	yes
+218633	Cordyceps cicadae	Cordyceps	Cordycipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Cordyceps cicadae	1	GCA_050574885.1	reference genome	ASM5057488v1	Chromosome		34598042	no
+114497	Cordyceps fumosorosea	Cordyceps	Cordycipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Cordyceps fumosorosea	1	GCA_963580265.1		grCorFumo1.1	Chromosome		34324099	no
+99897	Cordyceps gunnii	Cordyceps	Cordycipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Cordyceps gunnii	1	GCA_052399015.1	reference genome	ASM5239901v1	Complete Genome		30266255	no
+43265	Cordyceps javanica	Cordyceps	Cordycipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Cordyceps javanica	3	GCF_051103115.1	reference genome	ASM5110311v1	Complete Genome		35105364	yes
+73501	Cordyceps militaris	Cordyceps	Cordycipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Cordyceps militaris	2	GCA_008080495.1		ASM808049v1	Complete Genome		33618380	yes
+165390	Cortinarius acutus	Cortinarius	Cortinariaceae	Agaricales	Agaricomycetes	Basidiomycota	Cortinarius acutus	1	GCA_982551715.1	reference genome	gfCorAcut1.1	Chromosome		127368347	no
+86079	Cortinarius anomalus	Cortinarius	Cortinariaceae	Agaricales	Agaricomycetes	Basidiomycota	Cortinarius anomalus	1	GCA_986708555.1	reference genome	gfCorAnom1.hap1.1	Chromosome		60499832	no
+183875	Cortinarius bolaris	Cortinarius	Cortinariaceae	Agaricales	Agaricomycetes	Basidiomycota	Cortinarius bolaris	1	GCA_986708395.1		gfCorBola1.hap1.1	Chromosome		72398558	no
+220798	Cortinarius flexipes	Cortinarius	Cortinariaceae	Agaricales	Agaricomycetes	Basidiomycota	Cortinarius flexipes	1	GCA_982554175.1	reference genome	gfCorFlex1.hap1.1	Chromosome		91664756	no
+304823	Cortinarius hemitrichus	Cortinarius	Cortinariaceae	Agaricales	Agaricomycetes	Basidiomycota	Cortinarius hemitrichus	1	GCA_988264995.1	reference genome	gfCorHemi3.1	Chromosome		94097817	no
+304812	Cortinarius torvus	Cortinarius	Cortinariaceae	Agaricales	Agaricomycetes	Basidiomycota	Cortinarius torvus	1	GCA_984799035.1	reference genome	gfCorTorv1.hap1.1	Chromosome		112334844	no
+57200	Craterellus tubaeformis	Craterellus	Hydnaceae	Cantharellales	Agaricomycetes	Basidiomycota	Craterellus tubaeformis	1	GCA_986918515.1	reference genome	gfCraTuba2.hap1.1	Chromosome		61249021	no
+60197	Cronartium quercuum	Cronartium	Coleosporiaceae	Pucciniales	Pucciniomycetes	Basidiomycota	Cronartium quercuum f. sp. fusiforme	1	GCA_061372115.1	reference genome	Cqf v.1.0	Complete Genome		86876455	yes
+5116	Cryphonectria parasitica	Cryphonectria	Cryphonectriaceae	Diaporthales	Sordariomycetes	Ascomycota	Cryphonectria parasitica	1	GCA_018104285.1		INRAE_Cpar_1.0	Chromosome		43157375	no
+552467	Cryptococcus bacillisporus	Cryptococcus	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Cryptococcus bacillisporus CA1280	3	GCF_000836335.1	reference genome	ASM83633v2	Complete Genome		17825526	yes
+3896963	Cryptococcus cederbergensis	Cryptococcus	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Cryptococcus cederbergensis	1	GCA_056632975.1		ASM5663297v1	Complete Genome		17670646	yes
+1859122	Cryptococcus decagattii	Cryptococcus	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Cryptococcus decagattii	2	GCF_036417295.1	reference genome	ASM3641729v1	Complete Genome		17768546	yes
+40410	Cryptococcus deneoformans	Cryptococcus	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Cryptococcus deneoformans JEC21	11	GCF_000091045.1	reference genome	ASM9104v1	Chromosome		19051922	yes
+5208	Cryptococcus depauperatus	Cryptococcus	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Cryptococcus depauperatus CBS 7841	3	GCF_001720195.1	reference genome	ASM172019v2	Complete Genome		16179376	yes
+1859096	Cryptococcus deuterogattii	Cryptococcus	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Cryptococcus deuterogattii R265	3	GCF_002954075.1	reference genome	C. deuterogattii_R265_chr	Chromosome		17550122	yes
+2591691	Cryptococcus floricola	Cryptococcus	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Cryptococcus floricola	1	GCA_006352305.1	reference genome	ASM635230v1	Chromosome		21699837	no
+37769	Cryptococcus gattii	Cryptococcus	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Cryptococcus gattii WM276	3	GCF_000185945.1	reference genome	ASM18594v1	Chromosome		18374760	yes
+2268382	Cryptococcus hyracis	Cryptococcus	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Cryptococcus hyracis	1	GCA_009650685.1		Cryp_gatt_MF34	Chromosome		17886378	yes
+3896966	Cryptococcus jaspeensis	Cryptococcus	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Cryptococcus jaspeensis	1	GCA_036427605.1		ASM3642760v1	Complete Genome		24520542	yes
+3896964	Cryptococcus maquisensis	Cryptococcus	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Cryptococcus maquisensis	1	GCA_036426225.1		ASM3642622v1	Complete Genome		19153593	yes
+5207	Cryptococcus neoformans	Cryptococcus	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Cryptococcus neoformans H99	54	GCF_000149245.1	reference genome	CNA3	Chromosome		18891193	yes
+1859121	Cryptococcus tetragattii	Cryptococcus	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Cryptococcus tetragattii IND107	2	GCF_000835755.1	reference genome	ASM83575v2	Chromosome		17799622	yes
+5619	Cryptococcus wingfieldii	Cryptococcus	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Cryptococcus wingfieldii	1	GCA_006149155.1		ASM614915v1	Complete Genome		20813371	no
+3390039	Cryptoporus qinlingensis	Cryptoporus	Polyporaceae	Polyporales	Agaricomycetes	Basidiomycota	Cryptoporus qinlingensis	1	GCA_048164905.1	reference genome	ASM4816490v1	Chromosome		34467747	no
+1890680	Cryptotrichosporon brontae	Cryptotrichosporon	Tetragoniomycetaceae	Trichosporonales	Tremellomycetes	Basidiomycota	Cryptotrichosporon brontae	1	GCA_977066725.1	reference genome	gfCryBron1.1	Chromosome		18683023	no
+155726	Cunninghamella blakesleeana	Cunninghamella	Cunninghamellaceae	Mucorales	Mucoromycetes	Mucoromycota	Cunninghamella blakesleeana	1	GCA_054130635.1	reference genome	ASM5413063v1	Complete Genome		33158829	no
+279322	Cutaneotrichosporon cavernicola	Cutaneotrichosporon	Trichosporonaceae	Trichosporonales	Tremellomycetes	Basidiomycota	Cutaneotrichosporon cavernicola	5	GCF_030864355.1	reference genome	ASM3086435v1	Complete Genome		20237334	yes
+3040995	Cutaneotrichosporon sp. HIS471	Cutaneotrichosporon	Trichosporonaceae	Trichosporonales	Tremellomycetes	Basidiomycota	Cutaneotrichosporon sp. HIS471	1	GCA_030864385.1		ASM3086438v1	Complete Genome		20595329	yes
+394432	Cylindrobasidium torrendii	Cylindrobasidium	Physalacriaceae	Agaricales	Agaricomycetes	Basidiomycota	Cylindrobasidium torrendii	1	GCA_048934185.1	reference genome	ASM4893418v1	Complete Genome		33674658	no
+182063	Cystoderma amianthinum	Cystoderma	Squamanitaceae	Agaricales	Agaricomycetes	Basidiomycota	Cystoderma amianthinum	1	GCA_984806785.1	reference genome	gfCysAmia4.hap1.1	Chromosome		50508799	no
+578113	Cytospora mali	Cytospora	Cytosporaceae	Diaporthales	Sordariomycetes	Ascomycota	Cytospora mali	1	GCA_000818155.1		ASM81815v1	Chromosome		44725953	yes
+430498	Dactylellina haptotyla	Dactylellina	Orbiliaceae	Orbiliales	Orbiliomycetes	Ascomycota	Dactylellina haptotyla	1	GCA_031310005.1	reference genome	ASM3131000v1	Chromosome		39806839	no
+596167	Daedaleopsis sinensis	Daedaleopsis	Polyporaceae	Polyporales	Agaricomycetes	Basidiomycota	Daedaleopsis sinensis	1	GCA_033807695.1	reference genome	ASM3380769v1	Chromosome		51668064	no
+4959	Debaryomyces hansenii	Debaryomyces	Debaryomycetaceae	Serinales	Pichiomycetes	Ascomycota	Debaryomyces hansenii CBS767	6	GCF_000006445.2	reference genome	ASM644v2	Chromosome		12152486	yes
+2932746	Debaryomycetaceae sp. JAC-2022a		Debaryomycetaceae	Serinales	Pichiomycetes	Ascomycota	Debaryomycetaceae sp. JAC-2022a	1	GCA_032598715.1		ASM3259871v1	Complete Genome		11144167	no
+312227	Dengshuqunia hispaniensis	Dengshuqunia		Dipodascales	Dipodascomycetes	Ascomycota	Dengshuqunia hispaniensis	1	GCA_900535975.1	reference genome	OLHI0	Chromosome		10652573	no
+60444	Diaporthe caulivora	Diaporthe	Diaporthaceae	Diaporthales	Sordariomycetes	Ascomycota	Diaporthe caulivora	1	GCA_055944425.1	reference genome	NAU_DcSQ_1.1	Complete Genome		56784136	no
+54899	Diaporthe longicolla	Diaporthe	Diaporthaceae	Diaporthales	Sordariomycetes	Ascomycota	Diaporthe longicolla	1	GCA_055944385.1	reference genome	NAU_DlYC_2.1	Chromosome		63835737	no
+165439	Diaporthe sojae	Diaporthe	Diaporthaceae	Diaporthales	Sordariomycetes	Ascomycota	Diaporthe sojae	1	GCA_055944445.1	reference genome	NAU_DsDT_1.1	Chromosome		59055683	no
+1705999	Diaporthe unshiuensis	Diaporthe	Diaporthaceae	Diaporthales	Sordariomycetes	Ascomycota	Diaporthe unshiuensis	1	GCA_055944395.1	reference genome	NAU_DuXZ_1.1	Chromosome		58160627	no
+1464785	Dictyophora rubrovolvata	Dictyophora	Phallaceae	Phallales	Agaricomycetes	Basidiomycota	Dictyophora rubrovolvata	1	GCA_029959195.1	reference genome	ASM2995919v1	Chromosome		28241966	no
+749598	Didymella arachidicola	Didymella	Didymellaceae	Pleosporales	Dothideomycetes	Ascomycota	Didymella arachidicola	1	GCA_016630955.3	reference genome	ASM1663095v3	Chromosome		36211073	no
+749633	Didymella pinodella	Didymella	Didymellaceae	Pleosporales	Dothideomycetes	Ascomycota	Didymella pinodella	1	GCA_039634465.1	reference genome	ASM3963446v1	Complete Genome		34314169	no
+66738	Diplodia sapinea	Diplodia	Botryosphaeriaceae	Botryosphaeriales	Dothideomycetes	Ascomycota	Diplodia sapinea	2	GCA_056582465.1	reference genome	Dsap_CMW190_1	Complete Genome		38053143	yes
+148313	Discula destructiva	Discula	Gnomoniaceae	Diaporthales	Sordariomycetes	Ascomycota	Discula destructiva	1	GCA_965644035.1	reference genome	DD_AS111_GENOME	Complete Genome		46654619	yes
+45537	Diutina catenulata	Diutina	Debaryomycetaceae	Serinales	Pichiomycetes	Ascomycota	Diutina catenulata	6	GCA_965286745.1	reference genome	DICA0.2	Complete Genome		14698548	yes
+5481	Diutina rugosa	Diutina	Debaryomycetaceae	Serinales	Pichiomycetes	Ascomycota	Diutina rugosa	1	GCA_965362145.1		DIRU0	Complete Genome		13837356	yes
+98403	Drechmeria coniospora	Drechmeria	Ophiocordycipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Drechmeria coniospora	3	GCF_001625195.1	reference genome	ASM162519v1	Chromosome		32831003	yes
+5493	Dujonia zeylanoides	Dujonia	Debaryomycetaceae	Serinales	Pichiomycetes	Ascomycota	Dujonia zeylanoides	2	GCA_031851675.1	reference genome	ASM3185167v1	Complete Genome		10675844	no
+1955775	Emergomyces africanus	Emergomyces	Ajellomycetaceae	Onygenales	Eurotiomycetes	Ascomycota	Emergomyces africanus	1	GCA_061611815.1	reference genome	CBS136260v1	Complete Genome		32413196	no
+2060907	Emergomyces canadensis	Emergomyces	Ajellomycetaceae	Onygenales	Eurotiomycetes	Ascomycota	Emergomyces canadensis	1	GCA_061611855.1	reference genome	CBS139872v2	Chromosome		33475457	no
+2060908	Emergomyces europaeus	Emergomyces	Ajellomycetaceae	Onygenales	Eurotiomycetes	Ascomycota	Emergomyces europaeus	1	GCA_061611865.1	reference genome	CBS102456v2	Chromosome		35821341	no
+1955774	Emergomyces pasteurianus	Emergomyces	Ajellomycetaceae	Onygenales	Eurotiomycetes	Ascomycota	Emergomyces pasteurianus	1	GCA_061611825.1	reference genome	CBS101426v1	Chromosome		33353734	no
+2070801	Emydomyces testavorans	Emydomyces	Nannizziopsiaceae	Onygenales	Eurotiomycetes	Ascomycota	Emydomyces testavorans	1	GCA_029449355.1	reference genome	ASM2944935v1	Complete Genome		31798767	yes
+6035	Encephalitozoon cuniculi	Encephalitozoon	Unikaryonidae			Microsporidia	Encephalitozoon cuniculi GB-M1	3	GCF_000091225.2	reference genome	ASM9122v2	Chromosome		2497519	yes
+27973	Encephalitozoon hellem	Encephalitozoon	Unikaryonidae			Microsporidia	Encephalitozoon hellem ATCC 50504	4	GCF_000277815.2	reference genome	ASM27781v3	Chromosome		2251784	yes
+58839	Encephalitozoon intestinalis	Encephalitozoon	Unikaryonidae			Microsporidia	Encephalitozoon intestinalis ATCC 50506	6	GCF_000146465.1	reference genome	ASM14646v1	Chromosome		2216898	yes
+571949	Encephalitozoon romaleae	Encephalitozoon	Unikaryonidae			Microsporidia	Encephalitozoon romaleae SJ-2008	2	GCF_000280035.1	reference genome	ASM28003v2	Chromosome		2187595	yes
+3417535	Encephalitozoon sp. gmOTU3 Ox001895	Encephalitozoon	Unikaryonidae			Microsporidia	Encephalitozoon sp. gmOTU3 Ox001895	1	GCA_986194495.1		ilEupExig1.microsporidian_1.1	Complete Genome		2524127	no
+2075521	Entoloma atromadidum	Entoloma	Entolomataceae	Agaricales	Agaricomycetes	Basidiomycota	Entoloma atromadidum	1	GCA_986885585.1	reference genome	gfEntAtrm2.hap1.1	Chromosome		76675223	no
+418785	Entoloma clypeatum	Entoloma	Entolomataceae	Agaricales	Agaricomycetes	Basidiomycota	Entoloma clypeatum	1	GCA_963565915.2	reference genome	gfEntClyp1.2	Chromosome		60083093	no
+205924	Entomortierella parvispora	Entomortierella	Mortierellaceae	Mortierellales	Mortierellomycetes	Mortierellomycota	Entomortierella parvispora	1	GCA_963573315.1	reference genome	gzEntParv1.1	Chromosome		41789561	no
+2886949	Ephebe lanata	Ephebe	Porocyphaceae	Lichinales	Lichinomycetes	Ascomycota	Ephebe lanata	1	GCA_965113265.1	reference genome	glEphLana1.1	Chromosome		38055185	no
+42805	Epichloe amarillans	Epichloe	Clavicipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Epichloe amarillans	1	GCA_024072835.1	reference genome	ASM2407283v1	Complete Genome		38115118	no
+47801	Epichloe baconii	Epichloe	Clavicipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Epichloe baconii	1	GCA_023650635.1	reference genome	ASM2365063v1	Complete Genome		39194522	no
+79589	Epichloe brachyelytri	Epichloe	Clavicipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Epichloe brachyelytri	1	GCA_023650705.1	reference genome	ASM2365070v1	Complete Genome		44635537	no
+79588	Epichloe bromicola	Epichloe	Clavicipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Epichloe bromicola	1	GCA_023658445.1	reference genome	ASM2365844v1	Complete Genome		46126030	no
+55200	Epichloe elymi	Epichloe	Clavicipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Epichloe elymi	1	GCA_023658475.1	reference genome	ASM2365847v1	Complete Genome		34119850	no
+35717	Epichloe festucae	Epichloe	Clavicipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Epichloe festucae Fl1	2	GCA_003814445.1	reference genome	ASM381444v1	Complete Genome		34970730	yes
+447254	Epichloe gansuensis	Epichloe	Clavicipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Epichloe gansuensis	1	GCA_023658505.1	reference genome	ASM2365850v1	Complete Genome		39488938	no
+79591	Epichloe glyceriae	Epichloe	Clavicipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Epichloe glyceriae	1	GCA_023658535.1	reference genome	ASM2365853v1	Complete Genome		42971046	no
+2834323	Epichloe scottii	Epichloe	Clavicipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Epichloe scottii	1	GCA_021950295.1	reference genome	ASM2195029v1	Complete Genome		37248187	no
+5113	Epichloe typhina	Epichloe	Clavicipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Epichloe typhina subsp. poae	5	GCA_030389615.1	reference genome	ASM3038961v1	Complete Genome		38251297	no
+749593	Epicoccum sorghinum	Epicoccum	Didymellaceae	Pleosporales	Dothideomycetes	Ascomycota	Epicoccum sorghinum	1	GCA_040893085.1	reference genome	ASM4089308v1	Chromosome		32694839	no
+45285	Eremothecium cymbalariae	Eremothecium	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Eremothecium cymbalariae DBVPG#7215	2	GCF_000235365.1	reference genome	ASM23536v1	Chromosome		9669424	yes
+33169	Eremothecium gossypii	Eremothecium	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Eremothecium gossypii ATCC 10895	3	GCF_000091025.4	reference genome	ASM9102v4	Complete Genome		9095748	yes
+45286	Eremothecium sinecaudum	Eremothecium	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Eremothecium sinecaudum	2	GCF_001548555.1	reference genome	ASM154855v1	Complete Genome		8922523	yes
+271129	Exobasidium cylindrosporum	Exobasidium	Exobasidiaceae	Exobasidiales	Exobasidiomycetes	Basidiomycota	Exobasidium cylindrosporum	1	GCA_023273805.1	reference genome	ASM2327380v1	Complete Genome		17713252	no
+63378	Exobasidium rhododendri	Exobasidium	Exobasidiaceae	Exobasidiales	Exobasidiomycetes	Basidiomycota	Exobasidium rhododendri	1	GCA_026210745.1	reference genome	ASM2621074v1	Complete Genome		17559058	yes
+91925	Exophiala lecanii-corni	Exophiala	Herpotrichiellaceae	Chaetothyriales	Eurotiomycetes	Ascomycota	Exophiala lecanii-corni	1	GCA_003955835.1	reference genome	ASM395583v1	Complete Genome		34391799	no
+1659837	Exserohilum rostratum	Exserohilum	Pleosporaceae	Pleosporales	Dothideomycetes	Ascomycota	Exserohilum rostratum	1	GCA_026367775.1	reference genome	ASM2636777v1	Complete Genome		34053972	no
+93612	Exserohilum turcicum	Exserohilum	Pleosporaceae	Pleosporales	Dothideomycetes	Ascomycota	Exserohilum turcica Et28A	1	GCA_013390285.1		ASM1339028v1	Complete Genome		43480261	no
+2060913	Flammulina filiformis	Flammulina	Physalacriaceae	Agaricales	Agaricomycetes	Basidiomycota	Flammulina filiformis	2	GCA_048987785.1	reference genome	ASM4898778v1	Complete Genome		37174964	no
+38945	Flammulina velutipes	Flammulina	Physalacriaceae	Agaricales	Agaricomycetes	Basidiomycota	Flammulina velutipes	3	GCA_011800155.1	reference genome	ASM1180015v1	Chromosome		38126399	no
+1301332	Flavoplaca marina	Flavoplaca	Teloschistaceae	Teloschistales	Lecanoromycetes	Ascomycota	Flavoplaca marina	1	GCA_965225635.1	reference genome	glFlaMari1.1	Chromosome		36232587	no
+493452	Floccularia luteovirens	Floccularia	Squamanitaceae	Agaricales	Agaricomycetes	Basidiomycota	Floccularia luteovirens	1	GCA_052855235.1	reference genome	ASM5285523v1	Complete Genome		26731665	no
+383678	Fomitopsis pulvina	Fomitopsis	Fomitopsidaceae	Polyporales	Agaricomycetes	Basidiomycota	Fomitopsis pulvina	1	GCA_964035675.1	reference genome	gfBolQuer1.1	Chromosome		37428316	no
+5499	Fulvia fulva	Fulvia	Mycosphaerellaceae	Mycosphaerellales	Dothideomycetes	Ascomycota	Fulvia fulva	6	GCF_020509005.1	reference genome	Cfulv_R5_v5	Complete Genome		67169167	yes
+5515	Fusarium acuminatum	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium acuminatum	1	GCA_038181435.1	reference genome	ASM3818143v1	Complete Genome		46698876	yes
+282267	Fusarium asiaticum	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium asiaticum	2	GCA_025258505.1	reference genome	ASM2525850v1	Complete Genome		38303553	no
+40199	Fusarium avenaceum	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium avenaceum	2	GCA_025948275.1	reference genome	ASM2594827v1	Complete Genome		42041114	no
+56641	Fusarium cerealis	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium cerealis	1	GCA_054553065.1	reference genome	DFRC_Fcer_1.0	Chromosome		36722793	no
+48490	Fusarium circinatum	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium circinatum	9	GCA_024047395.1	reference genome	ASM2404739v1	Chromosome		46810763	no
+5516	Fusarium culmorum	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium culmorum	2	GCA_016952355.1	reference genome	ASM1695235v1	Complete Genome		37519305	yes
+195108	Fusarium falciforme	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium falciforme	2	GCF_026873545.1	reference genome	ASM2687354v1	Complete Genome		53563088	yes
+5127	Fusarium fujikuroi	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium fujikuroi IMI 58289	5	GCF_900079805.1	reference genome	Fusarium_fujikuroi_IMI58289_V2	Chromosome		43832314	yes
+5518	Fusarium graminearum	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium graminearum PH-1	28	GCF_000240135.3	reference genome	ASM24013v3	Chromosome		36458046	yes
+1328300	Fusarium keratoplasticum	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium keratoplasticum	3	GCF_025433545.1	reference genome	ASM2543354v1	Chromosome		49462855	yes
+56665	Fusarium kyushuense	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium kyushuense	1	GCA_034753255.1	reference genome	ASM3475325v1	Chromosome		36957249	no
+2494467	Fusarium luffae	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium luffae	1	GCA_054821325.1	reference genome	FL_SD	Chromosome		38148448	no
+282269	Fusarium meridionale	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium meridionale	1	GCA_032355295.1	reference genome	ASM3235529v1	Complete Genome		37008135	no
+1042133	Fusarium musae	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium musae	2	GCF_019915245.1	reference genome	ASM1991524v1	Chromosome		44015302	yes
+2502994	Fusarium odoratissimum	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium odoratissimum	2	GCA_040822265.1		ASM4082226v1	Complete Genome		45777886	no
+5507	Fusarium oxysporum	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium oxysporum Fo47	52	GCF_013085055.1	reference genome	ASM1308505v1	Complete Genome		50358849	yes
+2750198	Fusarium phialophorum	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium phialophorum	1	GCA_040822225.1	reference genome	ASM4082222v1	Complete Genome		47999031	no
+36050	Fusarium poae	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium poae	11	GCF_019609905.1	reference genome	ASM1960990v1	Chromosome		43859651	yes
+948311	Fusarium proliferatum	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium proliferatum	3	GCA_058129285.1		ASM5812928v1	Complete Genome		43804295	no
+101028	Fusarium pseudograminearum	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium pseudograminearum CS3096	6	GCF_000303195.2	reference genome	FP7	Chromosome		36863345	yes
+5128	Fusarium sambucinum	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium sambucinum	3	GCF_050947815.1	reference genome	OSU_Fsam_2.1	Complete Genome		38591179	yes
+2747967	Fusarium solani-melongenae	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium solani-melongenae	1	GCA_023101225.1	reference genome	ASM2310122v1	Complete Genome		49477711	yes
+2898545	Fusarium sp. LHS14.1	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium sp. LHS14.1	1	GCA_025433615.1		ASM2543361v1	Chromosome		56318919	yes
+2898544	Fusarium sp. Ph1	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium sp. Ph1	1	GCA_025433565.1		ASM2543356v1	Chromosome		51460811	yes
+61284	Fusarium tricinctum	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium tricinctum	1	GCA_050859235.1	reference genome	ASM5085923v1	Complete Genome		46236445	no
+2747968	Fusarium vanettenii	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium vanettenii	1	GCA_025433535.2		AS_Fvan_2.1	Chromosome		72919014	no
+56646	Fusarium venenatum	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium venenatum	2	GCF_900007375.1		ASM90000737v1	Chromosome		38581574	yes
+117187	Fusarium verticillioides	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium verticillioides 7600	11	GCF_000149555.1	reference genome	ASM14955v1	Chromosome		41791161	yes
+569361	Fusarium vorosii	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fusarium vorosii	2	GCA_037179535.1	reference genome	ASM3717953v1	Complete Genome		38907922	no
+36778	Gaeumannomyces avenae	Gaeumannomyces	Magnaporthaceae	Magnaporthales	Sordariomycetes	Ascomycota	Gaeumannomyces avenae	2	GCA_051938895.1	reference genome	ASM5193889v1	Chromosome		41219949	yes
+1940676	Gaeumannomyces hyphopodioides	Gaeumannomyces	Magnaporthaceae	Magnaporthales	Sordariomycetes	Ascomycota	Gaeumannomyces hyphopodioides	2	GCA_051938815.1	reference genome	ASM5193881v1	Chromosome		48748342	yes
+36779	Gaeumannomyces tritici	Gaeumannomyces	Magnaporthaceae	Magnaporthales	Sordariomycetes	Ascomycota	Gaeumannomyces tritici	5	GCA_051938625.1		ASM5193862v1	Chromosome		52020156	yes
+34458	Ganoderma boninense	Ganoderma	Polyporaceae	Polyporales	Agaricomycetes	Basidiomycota	Ganoderma boninense	1	GCA_002900995.3	reference genome	Gabo_G3	Chromosome		55869141	no
+1233435	Ganoderma lingzhi	Ganoderma	Polyporaceae	Polyporales	Agaricomycetes	Basidiomycota	Ganoderma lingzhi	1	GCA_047651895.1	reference genome	GL0102_53	Chromosome		50751897	no
+34465	Ganoderma resinaceum	Ganoderma	Polyporaceae	Polyporales	Agaricomycetes	Basidiomycota	Ganoderma resinaceum	1	GCA_964023155.1	reference genome	gfGanResi1.1	Chromosome		41015703	no
+2962918	Gerronema lapidescens	Gerronema	Porotheleaceae	Agaricales	Agaricomycetes	Basidiomycota	Gerronema lapidescens	1	GCA_052815655.1	reference genome	ASM5281565v1	Chromosome		82106268	no
+1471999	Gliophorus irrigatus	Gliophorus	Hygrophoraceae	Agaricales	Agaricomycetes	Basidiomycota	Gliophorus irrigatus	2	GCA_964638085.1	reference genome	gfGliIrri2.hap2.1	Chromosome		28332183	no
+81066	Gloeoporus taxicola	Gloeoporus	Irpicaceae	Polyporales	Agaricomycetes	Basidiomycota	Gloeoporus taxicola	1	GCA_978021965.1	reference genome	MT01	Chromosome		32010546	no
+1257147	Graphis lineola	Graphis	Graphidaceae	Ostropales	Lecanoromycetes	Ascomycota	Graphis lineola	1	GCA_056632675.2	reference genome	ASM5663267v2	Chromosome		31390089	no
+5627	Grifola frondosa	Grifola	Grifolaceae	Polyporales	Agaricomycetes	Basidiomycota	Grifola frondosa	6	GCA_056108205.1	reference genome	ASM5610820v1	Complete Genome		37905707	no
+3395814	Gyroporus aff. castaneus	Gyroporus	Gyroporaceae	Boletales	Agaricomycetes	Basidiomycota	Gyroporus aff. castaneus	1	GCA_965788925.1		gfGyrCasa2.hap1.1	Chromosome		102341911	no
+1176355	Hamiltosporidium tvaerminnensis	Hamiltosporidium	Dubosqiidae			Microsporidia	Hamiltosporidium tvaerminnensis	1	GCA_022605425.2	reference genome	FIOER33 v3	Chromosome		21638905	yes
+56406	Hanseniaspora guilliermondii	Hanseniaspora	Saccharomycodaceae	Saccharomycodales	Saccharomycetes	Ascomycota	Hanseniaspora guilliermondii	2	GCA_050947605.1	reference genome	ASM5094760v1	Complete Genome		9302783	yes
+3081051	Hanseniaspora menglaensis	Hanseniaspora	Saccharomycodaceae	Saccharomycodales	Saccharomycetes	Ascomycota	Hanseniaspora menglaensis	1	GCA_040256855.1	reference genome	ASM4025685v1	Complete Genome		9538423	yes
+211097	Hanseniaspora meyeri	Hanseniaspora	Saccharomycodaceae	Saccharomycodales	Saccharomycetes	Ascomycota	Hanseniaspora meyeri	1	GCA_030370665.1	reference genome	ASM3037066v1	Complete Genome		8750633	no
+2268990	Hanseniaspora mollemarum	Hanseniaspora	Saccharomycodaceae	Saccharomycodales	Saccharomycetes	Ascomycota	Hanseniaspora mollemarum	1	GCA_042466605.1	reference genome	ASM4246660v1	Complete Genome		9184028	no
+56407	Hanseniaspora occidentalis	Hanseniaspora	Saccharomycodaceae	Saccharomycodales	Saccharomycetes	Ascomycota	Hanseniaspora occidentalis var. occidentalis	1	GCA_050230685.1	reference genome	HoccT2T	Chromosome		12321893	no
+211096	Hanseniaspora opuntiae	Hanseniaspora	Saccharomycodaceae	Saccharomycodales	Saccharomycetes	Ascomycota	Hanseniaspora opuntiae	1	GCA_050947625.1	reference genome	ASM5094762v1	Complete Genome		8898366	yes
+56408	Hanseniaspora osmophila	Hanseniaspora	Saccharomycodaceae	Saccharomycodales	Saccharomycetes	Ascomycota	Hanseniaspora osmophila	1	GCA_050947655.1	reference genome	ASM5094765v1	Complete Genome		11396238	yes
+29833	Hanseniaspora uvarum	Hanseniaspora	Saccharomycodaceae	Saccharomycodales	Saccharomycetes	Ascomycota	Hanseniaspora uvarum	2	GCA_050947715.1	reference genome	ASM5094771v1	Complete Genome		8879419	yes
+56409	Hanseniaspora vineae	Hanseniaspora	Saccharomycodaceae	Saccharomycodales	Saccharomycetes	Ascomycota	Hanseniaspora vineae	2	GCA_050947685.1	reference genome	ASM5094768v1	Complete Genome		11681569	yes
+4927	Hansenula anomala	Hansenula	Wickerhamomycetaceae	Phaffomycetales	Saccharomycetes	Ascomycota	Hansenula anomala	3	GCA_050059845.1		UEES_CpEC_2.1	Chromosome		13911426	no
+5044	Hapsidospora chrysogena	Hapsidospora	Bionectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Hapsidospora chrysogena	2	GCA_051201255.1	reference genome	ASM5120125v1	Chromosome		29070048	no
+203904	Hemileia vastatrix	Hemileia	Zaghouaniaceae	Pucciniales	Pucciniomycetes	Basidiomycota	Hemileia vastatrix	2	GCA_054948715.1		ASM5494871v1	Chromosome		638650694	no
+1071379	Henningerozyma blattae	Henningerozyma	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Henningerozyma blattae CBS 6284	2	GCF_000315915.1	reference genome	ASM31591v1	Chromosome		14048593	yes
+100756	Hericium coralloides	Hericium	Hericiaceae	Russulales	Agaricomycetes	Basidiomycota	Hericium coralloides	1	GCA_964264465.1	reference genome	gfHerCora1.1	Chromosome		40595920	no
+91752	Hericium erinaceus	Hericium	Hericiaceae	Russulales	Agaricomycetes	Basidiomycota	Hericium erinaceus	2	GCA_006506795.2	reference genome	HeCS-4_2.0	Chromosome		41205484	no
+2320235	Hericium rajendrae	Hericium	Hericiaceae	Russulales	Agaricomycetes	Basidiomycota	Hericium rajendrae	1	GCA_033439255.1	reference genome	ASM3343925v1	Chromosome		46767965	no
+111463	Hirsutella rhossiliensis	Hirsutella	Ophiocordycipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Hirsutella rhossiliensis	1	GCA_020360975.2	reference genome	ASM2036097v2	Complete Genome		80502920	yes
+5037	Histoplasma capsulatum	Histoplasma	Ajellomycetaceae	Onygenales	Eurotiomycetes	Ascomycota	Histoplasma capsulatum	3	GCA_017310585.1		ASM1731058v1	Complete Genome		32477579	yes
+2902605	Histoplasma ohiense	Histoplasma	Ajellomycetaceae	Onygenales	Eurotiomycetes	Ascomycota	Histoplasma ohiense	2	GCA_051312685.1		HcG217B_UCSF2	Complete Genome		39446615	yes
+588726	Huiozyma naganishii	Huiozyma	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Huiozyma naganishii CBS 8797	2	GCF_000348985.1	reference genome	ASM34898v1	Chromosome		10845821	yes
+68759	Hydnum repandum	Hydnum	Hydnaceae	Cantharellales	Agaricomycetes	Basidiomycota	Hydnum repandum	2	GCA_980750255.1	reference genome	gfHydRepa2.hap2.1	Chromosome		56159403	no
+521075	Hygrocybe chlorophana	Hygrocybe	Hygrophoraceae	Agaricales	Agaricomycetes	Basidiomycota	Hygrocybe chlorophana	1	GCA_985607235.1	reference genome	gfHygChlo1.1	Chromosome		34547410	no
+557305	Hygrocybe citrinovirens	Hygrocybe	Hygrophoraceae	Agaricales	Agaricomycetes	Basidiomycota	Hygrocybe citrinovirens	1	GCA_987567215.1	reference genome	gfHygCiti1.hap1.1	Chromosome		42978895	no
+378274	Hygrocybe coccinea	Hygrocybe	Hygrophoraceae	Agaricales	Agaricomycetes	Basidiomycota	Hygrocybe coccinea	1	GCA_963555575.2	reference genome	gfHygCocc2.2	Chromosome		65126115	no
+104224	Hygrocybe conica	Hygrocybe	Hygrophoraceae	Agaricales	Agaricomycetes	Basidiomycota	Hygrocybe conica	1	GCA_965620545.1	reference genome	gfHygConi1.hap1.1	Chromosome		38937452	no
+566093	Hygrocybe helobia	Hygrocybe	Hygrophoraceae	Agaricales	Agaricomycetes	Basidiomycota	Hygrocybe helobia	1	GCA_965605795.1	reference genome	gfHygHelo1.hap1.1	Chromosome		28538497	no
+557324	Hygrocybe punicea	Hygrocybe	Hygrophoraceae	Agaricales	Agaricomycetes	Basidiomycota	Hygrocybe punicea	1	GCA_963556145.1	reference genome	gfHygPuni3.1	Chromosome		92146543	no
+717740	Hyphopichia burtonii	Hyphopichia	Debaryomycetaceae	Serinales	Pichiomycetes	Ascomycota	Hyphopichia burtonii	1	GCA_003856795.1		ASM385679v1	Complete Genome		12496550	no
+717741	Hyphopichia pseudoburtonii	Hyphopichia	Debaryomycetaceae	Serinales	Pichiomycetes	Ascomycota	Hyphopichia pseudoburtonii	1	GCA_003856775.1	reference genome	ASM385677v1	Complete Genome		15547333	no
+2594544	Hypoxylon texense	Hypoxylon	Hypoxylaceae	Xylariales	Sordariomycetes	Ascomycota	Hypoxylon texense	1	GCA_051132625.1	reference genome	ASM5113262v1	Complete Genome		45113431	yes
+39966	Hypsizygus marmoreus	Hypsizygus	Lyophyllaceae	Agaricales	Agaricomycetes	Basidiomycota	Hypsizygus marmoreus	1	GCA_013433165.1	reference genome	ASM1343316v1	Chromosome		43685284	no
+1276217	Immersiporthe knoxdaviesiana	Immersiporthe	Cryphonectriaceae	Diaporthales	Sordariomycetes	Ascomycota	Immersiporthe knoxdaviesiana	1	GCA_021117315.1	reference genome	ASM2111731v1	Complete Genome		38801209	no
+285026	Inocybe asterospora	Inocybe	Inocybaceae	Agaricales	Agaricomycetes	Basidiomycota	Inocybe asterospora	1	GCA_984807535.1	reference genome	gfInoAste3.hap1.1	Chromosome		52050911	no
+318605	Inocybe fraudans	Inocybe	Inocybaceae	Agaricales	Agaricomycetes	Basidiomycota	Inocybe fraudans	1	GCA_982374395.1	reference genome	gfInoFrau1.1	Chromosome		62448768	no
+1032817	Inocybe grammopodia	Inocybe	Inocybaceae	Agaricales	Agaricomycetes	Basidiomycota	Inocybe grammopodia	1	GCA_965154565.1	reference genome	gfInoGrao2.1	Chromosome		49423315	no
+2822767	Inocybe obscuroides	Inocybe	Inocybaceae	Agaricales	Agaricomycetes	Basidiomycota	Inocybe obscuroides	1	GCA_965233645.1	reference genome	gfInoObsi1.1	Chromosome		49949292	no
+181886	Inocybe petiginosa	Inocybe	Inocybaceae	Agaricales	Agaricomycetes	Basidiomycota	Inocybe petiginosa	1	GCA_979016895.1	reference genome	gfInoPeti2.1	Chromosome		29519448	no
+166043	Inocybe sindonia	Inocybe	Inocybaceae	Agaricales	Agaricomycetes	Basidiomycota	Inocybe sindonia	1	GCA_987106635.1	reference genome	gfInoSind2.hap1.1	Chromosome		62226841	no
+1169566	Inocybe tigrina	Inocybe	Inocybaceae	Agaricales	Agaricomycetes	Basidiomycota	Inocybe tigrina	1	GCA_964248975.1	reference genome	gfInoTigr1.1	Chromosome		42009716	no
+40469	Inonotus hispidus	Inonotus	Hymenochaetaceae	Hymenochaetales	Agaricomycetes	Basidiomycota	Inonotus hispidus	1	GCA_024712875.1	reference genome	ASM2471287v1	Chromosome		34017109	no
+391826	Insectozyma corydali	Insectozyma	Debaryomycetaceae	Serinales	Pichiomycetes	Ascomycota	Insectozyma corydali	1	GCA_987538045.1	reference genome	canCor1	Complete Genome		11504726	yes
+194684	Irpex laceratus	Irpex	Irpicaceae	Polyporales	Agaricomycetes	Basidiomycota	Irpex laceratus	1	GCA_051903565.1	reference genome	ASM5190356v1	Complete Genome		42948256	no
+196228	Ischnoderma resinosum	Ischnoderma	Ischnodermataceae	Polyporales	Agaricomycetes	Basidiomycota	Ischnoderma resinosum	1	GCA_042608485.1	reference genome	ASM4260848v1	Chromosome		34145666	no
+542766	Jaminaea angkorensis	Jaminaea		Microstromatales	Exobasidiomycetes	Basidiomycota	Jaminaea angkorensis CBS 10918	1	GCA_976943325.1	reference genome	jamAngA5	Complete Genome		20721755	yes
+2878321	Jaminaea pallidilutea	Jaminaea		Microstromatales	Exobasidiomycetes	Basidiomycota	Jaminaea pallidilutea	1	GCA_976943345.1	reference genome	jamPalA1	Complete Genome		17225416	yes
+432096	Kazachstania africana	Kazachstania	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Kazachstania africana CBS 2517	2	GCF_000304475.1	reference genome	Ka_CBS2517	Chromosome		11130140	yes
+28985	Kluyveromyces lactis	Kluyveromyces	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Kluyveromyces lactis	4	GCF_000002515.2	reference genome	ASM251v1	Complete Genome		10689156	yes
+4911	Kluyveromyces marxianus	Kluyveromyces	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Kluyveromyces marxianus DMKU3-1042	12	GCF_001417885.1	reference genome	Kmar_1.0	Complete Genome		10920159	yes
+3479323	Kodamaea sp. CyC9	Kodamaea	Debaryomycetaceae	Serinales	Pichiomycetes	Ascomycota	Kodamaea sp. CyC9	1	GCA_059510615.1		ASM5951061v1	Chromosome		13159151	no
+1342318	Komagataella kurtzmanii	Komagataella	Pichiaceae	Pichiales	Pichiomycetes	Ascomycota	Komagataella kurtzmanii	3	GCA_051623135.1	reference genome	ASM5162313v1	Complete Genome		9577423	no
+4922	Komagataella pastoris	Komagataella	Pichiaceae	Pichiales	Pichiomycetes	Ascomycota	Komagataella pastoris	2	GCA_001708105.1	reference genome	ASM170810v1	Chromosome		9597535	yes
+460519	Komagataella phaffii	Komagataella	Pichiaceae	Pichiales	Pichiomycetes	Ascomycota	Komagataella phaffii GS115	7	GCF_000027005.1	reference genome	ASM2700v1	Chromosome		9216378	yes
+71948	Kuehneromyces mutabilis	Kuehneromyces	Kuehneromycetaceae	Agaricales	Agaricomycetes	Basidiomycota	Kuehneromyces mutabilis	1	GCA_977035705.1	reference genome	gfKueMuta1.hap1.1	Chromosome		56285893	no
+324769	Kwoniella bestiolae	Kwoniella	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Kwoniella bestiolae CBS 10118	2	GCF_000512585.2	reference genome	ASM51258v3	Complete Genome		24551665	yes
+1268659	Kwoniella botswanensis	Kwoniella	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Kwoniella botswanensis	2	GCF_036426115.1	reference genome	ASM3642611v1	Complete Genome		23007246	yes
+324770	Kwoniella dejecticola	Kwoniella	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Kwoniella dejecticola CBS 10117	2	GCF_000512565.2	reference genome	ASM51256v3	Complete Genome		23932770	yes
+4975	Kwoniella dendrophila	Kwoniella	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Kwoniella dendrophila CBS 6074	2	GCF_036810415.1	reference genome	ASM3681041v1	Complete Genome		23026020	yes
+1247712	Kwoniella europaea	Kwoniella	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Kwoniella europaea PYCC6329	2	GCF_036810445.1	reference genome	ASM3681044v1	Complete Genome		22833461	yes
+2878307	Kwoniella fici	Kwoniella	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Kwoniella fici	1	GCA_056632915.1	reference genome	ASM5663291v1	Complete Genome		21537593	yes
+463800	Kwoniella mangrovensis	Kwoniella	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Kwoniella mangroviensis CBS 8507	3	GCF_000507465.2	reference genome	ASM50746v4	Chromosome		22796923	yes
+1651941	Kwoniella newhampshirensis	Kwoniella	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Kwoniella newhampshirensis	2	GCF_039105145.1	reference genome	ASM3910514v1	Chromosome		20459564	yes
+2877729	Kwoniella ovata	Kwoniella	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Kwoniella ovata	1	GCA_056632875.1	reference genome	ASM5663287v1	Complete Genome		24909383	yes
+453459	Kwoniella pini	Kwoniella	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Kwoniella pini CBS 10737	2	GCF_000512605.2	reference genome	ASM51260v3	Complete Genome		20887338	yes
+1734106	Kwoniella shandongensis	Kwoniella	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Kwoniella shandongensis	2	GCF_008629635.2	reference genome	ASM862963v2	Complete Genome		21305292	yes
+564305	Kwoniella shivajii	Kwoniella	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Kwoniella shivajii	2	GCF_035658355.1	reference genome	ASM3565835v1	Complete Genome		22171496	yes
+1423914	Kwoniella sp. B9012	Kwoniella	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Kwoniella sp. B9012	1	GCA_036810365.1		ASM3681036v1	Complete Genome		23028338	yes
+2770021	Kwoniella sp. CBS 6097	Kwoniella	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Kwoniella sp. CBS 6097	1	GCA_036287355.1		ASM3628735v1	Complete Genome		26078312	yes
+2770022	Kwoniella sp. CBS 9459	Kwoniella	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Kwoniella sp. CBS 9459	1	GCA_036428585.1		ASM3642858v1	Complete Genome		25236468	yes
+2770024	Kwoniella sp. DSM 27419	Kwoniella	Cryptococcaceae	Tremellales	Tremellomycetes	Basidiomycota	Kwoniella sp. DSM 27419	1	GCA_036428645.1		ASM3642864v1	Chromosome		18083668	yes
+2602009	Laburnicola rhizohalophila	Laburnicola	Didymosphaeriaceae	Pleosporales	Dothideomycetes	Ascomycota	Laburnicola rhizohalophila	3	GCA_039700795.1		ASM3970079v1	Chromosome		69561641	no
+1072105	Lachancea dasiensis	Lachancea	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Lachancea dasiensis	1	GCA_900074725.1	reference genome	LADA0	Chromosome		10701617	yes
+4955	Lachancea fermentati	Lachancea	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Lachancea fermentati	3	GCA_053726775.1	reference genome	RMC_JT139_1.0	Chromosome		10153973	no
+4934	Lachancea kluyveri	Lachancea	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Lachancea kluyveri NRRL Y-12651	1	GCA_000149225.2	reference genome	ASM14922v2	Chromosome		11509127	no
+300276	Lachancea meyersii	Lachancea	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Lachancea meyersii CBS 8951	1	GCA_900074715.1	reference genome	LAME0	Chromosome		11261819	yes
+1230905	Lachancea mirantina	Lachancea	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Lachancea mirantina	1	GCA_900074745.1	reference genome	LAMI0	Chromosome		10117267	yes
+679534	Lachancea nothofagi	Lachancea	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Lachancea nothofagi CBS 11611	1	GCA_900074755.1	reference genome	LANO0	Chromosome		11313798	yes
+1230904	Lachancea sp. 'fantastica'	Lachancea	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Lachancea sp. 'fantastica'	1	GCA_900074735.1		LAFA0	Chromosome		11336659	yes
+381046	Lachancea thermotolerans	Lachancea	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Lachancea thermotolerans CBS 6340	5	GCF_000142805.1	reference genome	ASM14280v1	Chromosome		10392862	yes
+152933	Lactarius blennius	Lactarius	Russulaceae	Russulales	Agaricomycetes	Basidiomycota	Lactarius blennius	1	GCA_964235335.1	reference genome	gfLacBlen1.hap1.1	Chromosome		68853849	no
+326039	Lactarius evosmus	Lactarius	Russulaceae	Russulales	Agaricomycetes	Basidiomycota	Lactarius evosmus	1	GCA_951394315.1	reference genome	gfLacEvos1.1	Chromosome		57231665	no
+118794	Lactarius fulvissimus	Lactarius	Russulaceae	Russulales	Agaricomycetes	Basidiomycota	Lactarius fulvissimus	1	GCA_988143915.1	reference genome	gfLacFulv1.hap1.1	Chromosome		59264247	no
+152943	Lactarius pubescens	Lactarius	Russulaceae	Russulales	Agaricomycetes	Basidiomycota	Lactarius pubescens	1	GCA_981112785.1	reference genome	gfLacPube1.hap1.1	Chromosome		66272693	no
+152947	Lactarius tabidus	Lactarius	Russulaceae	Russulales	Agaricomycetes	Basidiomycota	Lactarius tabidus	1	GCA_963281015.1	reference genome	gfLacTabi1.1	Chromosome		52334816	no
+152950	Lactifluus vellereus	Lactifluus	Russulaceae	Russulales	Agaricomycetes	Basidiomycota	Lactifluus vellereus	1	GCA_984589725.1	reference genome	gfLacVell1.hap1.1	Chromosome		62768092	no
+5630	Laetiporus sulphureus	Laetiporus	Laetiporaceae	Polyporales	Agaricomycetes	Basidiomycota	Laetiporus sulphureus	2	GCA_927399515.3		gfLaeSulp1.3	Chromosome		37410216	no
+45133	Lasiodiplodia theobromae	Lasiodiplodia	Botryosphaeriaceae	Botryosphaeriales	Dothideomycetes	Ascomycota	Lasiodiplodia theobromae	1	GCA_035621335.1		ASM3562133v1	Complete Genome		42819435	no
+5353	Lentinula edodes	Lentinula	Omphalotaceae	Agaricales	Agaricomycetes	Basidiomycota	Lentinula edodes	5	GCA_056010345.1		ASM5601034v1	Complete Genome		50057248	no
+39932	Leotia lubrica	Leotia	Leotiaceae	Leotiales	Leotiomycetes	Ascomycota	Leotia lubrica	1	GCA_965240495.1	reference genome	gyLeoLubr2.1	Chromosome		86083220	no
+209136	Lepraria neglecta	Lepraria	Stereocaulaceae	Lecanorales	Lecanoromycetes	Ascomycota	Lepraria neglecta	1	GCA_033220425.1	reference genome	Lene_EWU_01	Chromosome		42023604	yes
+2268375	Leptographium flavum	Leptographium	Ophiostomataceae	Ophiostomatales	Sordariomycetes	Ascomycota	Leptographium flavum	1	GCA_963580335.1	reference genome	grLepFlav1.1	Chromosome		23957028	no
+174425	Lichina confinis	Lichina	Lichinaceae	Lichinales	Lichinomycetes	Ascomycota	Lichina confinis	1	GCA_965642285.1	reference genome	glLicConf4.1	Chromosome		33940523	no
+157483	Lichina pygmaea	Lichina	Lichinaceae	Lichinales	Lichinomycetes	Ascomycota	Lichina pygmaea	1	GCA_963422465.1	reference genome	glLicPygm2.1	Chromosome		32421062	no
+688394	Lichtheimia ramosa	Lichtheimia	Lichtheimiaceae	Mucorales	Mucoromycetes	Mucoromycota	Lichtheimia ramosa	1	GCA_008728235.1	reference genome	ASM872823v1	Complete Genome		31885420	no
+49327	Limtongella incommunis	Limtongella	Trichomonascaceae	Dipodascales	Dipodascomycetes	Ascomycota	Limtongella incommunis	1	GCA_056507785.1	reference genome	ASM5650778v1	Complete Genome		12019212	no
+1910964	Linnemannia fluviae	Linnemannia	Mortierellaceae	Mortierellales	Mortierellomycetes	Mortierellomycota	Linnemannia fluviae	1	GCA_977013585.1	reference genome	ggMorFluv1.1	Chromosome		52930120	no
+45513	Lizanozyma spartinae	Lizanozyma	Debaryomycetaceae	Serinales	Pichiomycetes	Ascomycota	Lizanozyma spartinae	2	GCA_051362435.1		ASM5136243v1	Complete Genome		12164167	no
+1775926	Lodderomyces beijingensis	Lodderomyces	Debaryomycetaceae	Serinales	Pichiomycetes	Ascomycota	Lodderomyces beijingensis	2	GCF_963989305.1	reference genome	lodBeiA1	Complete Genome		15114296	yes
+36914	Lodderomyces elongisporus	Lodderomyces	Debaryomycetaceae	Serinales	Pichiomycetes	Ascomycota	Lodderomyces elongisporus	2	GCF_030384665.1	reference genome	ASM3038466v1	Complete Genome		16086460	yes
+273371	Lodderomyces orthopsilosis	Lodderomyces	Debaryomycetaceae	Serinales	Pichiomycetes	Ascomycota	Lodderomyces orthopsilosis Co 90-125	3	GCF_000315875.1	reference genome	ASM31587v1	Chromosome		12659401	yes
+5480	Lodderomyces parapsilosis	Lodderomyces	Debaryomycetaceae	Serinales	Pichiomycetes	Ascomycota	Lodderomyces parapsilosis	6	GCA_060079935.1		ASM6007993v1	Complete Genome		13051190	yes
+64660	Lyophyllum decastes	Lyophyllum	Lyophyllaceae	Agaricales	Agaricomycetes	Basidiomycota	Lyophyllum decastes	1	GCA_025854295.1	reference genome	ASM2585429v1	Complete Genome		47719223	no
+1157608	Madurella fahalii	Madurella		Sordariales	Sordariomycetes	Ascomycota	Madurella fahalii	1	GCA_029876055.1		CBS129176_v1	Chromosome		39129897	no
+2496157	Magnusiomyces clavatus	Magnusiomyces	Dipodascaceae	Dipodascales	Dipodascomycetes	Ascomycota	Magnusiomyces clavatus	4	GCA_059995155.1	reference genome	ASM5999515v1	Complete Genome		17561378	no
+3119571	Magnusiomyces sp. LA-1	Magnusiomyces	Dipodascaceae	Dipodascales	Dipodascomycetes	Ascomycota	Magnusiomyces sp. LA-1	1	GCA_029678045.1		ASM2967804v1	Complete Genome		19829165	no
+1514897	Malassezia arunalokei	Malassezia	Malasseziaceae	Malasseziales	Malasseziomycetes	Basidiomycota	Malassezia arunalokei	1	GCA_029542905.1	reference genome	ASM2954290v1	Complete Genome		7331251	yes
+1821822	Malassezia brasiliensis	Malassezia	Malasseziaceae	Malasseziales	Malasseziomycetes	Basidiomycota	Malassezia brasiliensis	1	GCA_029542985.1	reference genome	ASM2954298v1	Complete Genome		8000312	yes
+1381934	Malassezia caprae	Malassezia	Malasseziaceae	Malasseziales	Malasseziomycetes	Basidiomycota	Malassezia caprae	1	GCA_029542885.1	reference genome	ASM2954288v1	Complete Genome		7728824	yes
+948313	Malassezia cuniculi	Malassezia	Malasseziaceae	Malasseziales	Malasseziomycetes	Basidiomycota	Malassezia cuniculi	1	GCA_029542805.1	reference genome	ASM2954280v1	Complete Genome		7453460	yes
+1381935	Malassezia equina	Malassezia	Malasseziaceae	Malasseziales	Malasseziomycetes	Basidiomycota	Malassezia equina	1	GCA_029542865.1	reference genome	ASM2954286v1	Complete Genome		7775479	yes
+55194	Malassezia furfur	Malassezia	Malasseziaceae	Malasseziales	Malasseziomycetes	Basidiomycota	Malassezia furfur	2	GCA_009938135.1	reference genome	ASM993813v1	Complete Genome		8268083	yes
+76773	Malassezia globosa	Malassezia	Malasseziaceae	Malasseziales	Malasseziomycetes	Basidiomycota	Malassezia globosa	1	GCA_010232095.1		ASM1023209v1	Complete Genome		9084671	no
+223818	Malassezia japonica	Malassezia	Malasseziaceae	Malasseziales	Malasseziomycetes	Basidiomycota	Malassezia japonica	2	GCF_029542785.1	reference genome	ASM2954278v1	Complete Genome		8433779	yes
+180528	Malassezia nana	Malassezia	Malasseziaceae	Malasseziales	Malasseziomycetes	Basidiomycota	Malassezia nana	1	GCA_029542845.1	reference genome	ASM2954284v1	Complete Genome		7702145	yes
+76774	Malassezia obtusa	Malassezia	Malasseziaceae	Malasseziales	Malasseziomycetes	Basidiomycota	Malassezia obtusa	1	GCA_029542945.1	reference genome	ASM2954294v1	Complete Genome		8169464	yes
+77020	Malassezia pachydermatis	Malassezia	Malasseziaceae	Malasseziales	Malasseziomycetes	Basidiomycota	Malassezia pachydermatis	2	GCA_047368035.1		ASM4736803v1	Complete Genome		8403632	yes
+1821823	Malassezia psittaci	Malassezia	Malasseziaceae	Malasseziales	Malasseziomycetes	Basidiomycota	Malassezia psittaci	1	GCA_029542765.1	reference genome	ASM2954276v1	Complete Genome		8186253	yes
+76775	Malassezia restricta	Malassezia	Malasseziaceae	Malasseziales	Malasseziomycetes	Basidiomycota	Malassezia restricta	3	GCF_003290485.1	reference genome	ASM329048v1	Complete Genome		7330907	yes
+3031751	Malassezia sp. CBS 17886	Malassezia	Malasseziaceae	Malasseziales	Malasseziomycetes	Basidiomycota	Malassezia sp. CBS 17886	1	GCA_029542825.1		ASM2954282v1	Complete Genome		9312381	yes
+76777	Malassezia sympodialis	Malassezia	Malasseziaceae	Malasseziales	Malasseziomycetes	Basidiomycota	Malassezia sympodialis ATCC 42132	5	GCA_900149145.1		Msy_ATCC_42132_Feb2016	Complete Genome		7747459	yes
+2020962	Malassezia vespertilionis	Malassezia	Malasseziaceae	Malasseziales	Malasseziomycetes	Basidiomycota	Malassezia vespertilionis	2	GCF_029542925.1	reference genome	ASM2954292v1	Complete Genome		7595203	yes
+253288	Malassezia yamatoensis	Malassezia	Malasseziaceae	Malasseziales	Malasseziomycetes	Basidiomycota	Malassezia yamatoensis	1	GCA_029542965.1	reference genome	ASM2954296v1	Complete Genome		8264016	yes
+646506	Marasmius cohaerens	Marasmius	Marasmiaceae	Agaricales	Agaricomycetes	Basidiomycota	Marasmius cohaerens	1	GCA_986694515.1	reference genome	gfMarCoha1.1	Chromosome		68034556	no
+181124	Marasmius oreades	Marasmius	Marasmiaceae	Agaricales	Agaricomycetes	Basidiomycota	Marasmius oreades	3	GCF_018924745.1	reference genome	UU_Maror_2	Chromosome		44306131	yes
+64636	Marquandomyces marquandii	Marquandomyces	Clavicipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Marquandomyces marquandii	1	GCA_048569445.1	reference genome	ASM4856944v1	Complete Genome		42805715	no
+161978	Massalongia carnosa	Massalongia	Massalongiaceae	Peltigerales	Lecanoromycetes	Ascomycota	Massalongia carnosa	1	GCA_965645245.1	reference genome	glMasCarn1.1	Chromosome		52090196	no
+112263	Maudiozyma bulderi	Maudiozyma	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Maudiozyma bulderi	3	GCA_031590215.1	reference genome	ASM3159021v1	Chromosome		14466915	no
+5530	Metarhizium anisopliae	Metarhizium	Clavicipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Metarhizium anisopliae	1	GCA_061476995.1	reference genome	ASM6147699v1	Chromosome		42627817	no
+500148	Metarhizium brunneum	Metarhizium	Clavicipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Metarhizium brunneum	2	GCF_013426205.1	reference genome	ASM1342620v1	Complete Genome		37771916	yes
+1278899	Metarhizium pingshaense	Metarhizium	Clavicipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Metarhizium pingshaense	2	GCA_049901535.1	reference genome	ASM4990153v1	Chromosome		41009669	no
+568076	Metarhizium robertsii	Metarhizium	Clavicipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Metarhizium robertsii	3	GCA_037177735.1		ASM3717773v1	Chromosome		43163266	no
+2163413	Metschnikowia aff. pulcherrima	Metschnikowia	Metschnikowiaceae	Serinales	Pichiomycetes	Ascomycota	Metschnikowia aff. pulcherrima	1	GCA_004217705.1		ASM421770v1	Complete Genome		15801215	yes
+27327	Metschnikowia reukaufii	Metschnikowia	Metschnikowiaceae	Serinales	Pichiomycetes	Ascomycota	Metschnikowia reukaufii	1	GCA_003401635.1	reference genome	MR1_a14_ref	Chromosome		15522805	no
+3375939	Metschnikowia sp. Fae-6	Metschnikowia	Metschnikowiaceae	Serinales	Pichiomycetes	Ascomycota	Metschnikowia sp. Fae-6	1	GCA_051943065.1		ASM5194306v1	Complete Genome		15861176	no
+3392078	Metschnikowia sp. Fdp-2	Metschnikowia	Metschnikowiaceae	Serinales	Pichiomycetes	Ascomycota	Metschnikowia sp. Fdp-2	1	GCA_047655315.1		ASM4765531v1	Complete Genome		16230833	no
+27328	Metschnikowia zobellii	Metschnikowia	Metschnikowiaceae	Serinales	Pichiomycetes	Ascomycota	Metschnikowia zobellii	1	GCA_939531405.1	reference genome	gsMetZobe1.1	Chromosome		13602261	no
+4929	Meyerozyma guilliermondii	Meyerozyma	Debaryomycetaceae	Serinales	Pichiomycetes	Ascomycota	Meyerozyma guilliermondii	1	GCA_051546255.1		ASM5154625v1	Complete Genome		10658372	yes
+2715920	Microsporidia sp. MB					Microsporidia	Microsporidia sp. MB	1	GCA_056153265.1		UG_MB_1.1	Complete Genome		9162986	yes
+84753	Moesziomyces antarcticus	Moesziomyces	Ustilaginaceae	Ustilaginales	Ustilaginomycetes	Basidiomycota	Moesziomyces antarcticus	1	GCA_031214725.1		ASM3121472v1	Complete Genome		18696573	no
+5098	Monascus purpureus	Monascus	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Monascus purpureus	2	GCA_025999795.1	reference genome	ASM2599979v1	Chromosome		24475985	yes
+61207	Monilinia vaccinii-corymbosi	Monilinia	Sclerotiniaceae	Helotiales	Leotiomycetes	Ascomycota	Monilinia vaccinii-corymbosi	1	GCA_017357885.1	reference genome	ASM1735788v1	Chromosome		30008100	yes
+27293	Monosporozyma servazzii	Monosporozyma	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Monosporozyma servazzii	2	GCA_964275055.1	reference genome	MOSE0	Complete Genome		12262199	yes
+27294	Monosporozyma unispora	Monosporozyma	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Monosporozyma unispora	1	GCA_964275045.1	reference genome	MOUN0	Complete Genome		12741222	yes
+62758	Morchella semilibera	Morchella	Morchellaceae	Pezizales	Pezizomycetes	Ascomycota	Morchella semilibera	1	GCA_009192285.1	reference genome	ASM919228v1	Chromosome		56756124	no
+1174677	Morchella sextelata	Morchella	Morchellaceae	Pezizales	Pezizomycetes	Ascomycota	Morchella sextelata	1	GCA_059756815.1		ASM5975681v1	Chromosome		54639260	no
+105697	Mucor piriformis	Mucor	Mucoraceae	Mucorales	Mucoromycetes	Mucoromycota	Mucor piriformis	1	GCA_943193625.1	reference genome	gzMucPiri1.1	Chromosome		34898162	no
+71905	Mycena galericulata	Mycena	Mycenaceae	Agaricales	Agaricomycetes	Basidiomycota	Mycena galericulata	1	GCA_965250825.1	reference genome	gfMycGale1.hap1.1	Chromosome		104721594	no
+3724862	Mycogone sp. X01501	Mycogone	Hypocreaceae	Hypocreales	Sordariomycetes	Ascomycota	Mycogone sp. X01501	1	GCA_059052505.1		ASM5905250v1	Complete Genome		32977754	no
+5270	Mycosarcoma maydis	Mycosarcoma		Ustilaginales	Ustilaginomycetes	Basidiomycota	Mycosarcoma maydis	4	GCF_000328475.2	reference genome	Umaydis521_2.0	Chromosome		19664356	yes
+3473903	Myrothecium sp. GS58	Myrothecium	Stachybotryaceae	Hypocreales	Sordariomycetes	Ascomycota	Myrothecium sp. GS58	1	GCA_054134755.1		ASM5413475v1	Chromosome		41146558	no
+3422803	Naematelia sinensis	Naematelia	Naemateliaceae	Tremellales	Tremellomycetes	Basidiomycota	Naematelia sinensis	4	GCA_056747475.1		ASM5674747v1	Complete Genome		20747581	no
+5478	Nakaseomyces glabratus	Nakaseomyces	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Nakaseomyces glabratus	21	GCF_010111755.1	reference genome	ASM1011175v1	Chromosome		12726212	yes
+1254446	Nannizziopsis arthrosporioides	Nannizziopsis	Nannizziopsiaceae	Onygenales	Eurotiomycetes	Ascomycota	Nannizziopsis arthrosporioides	1	GCA_029635245.1	reference genome	ASM2963524v1	Complete Genome		24221575	no
+27288	Naumovozyma castellii	Naumovozyma	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Naumovozyma castellii	2	GCF_000237345.1	reference genome	ASM23734v1	Chromosome		11219539	yes
+27289	Naumovozyma dairenensis	Naumovozyma	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Naumovozyma dairenensis CBS 421	2	GCF_000227115.2	reference genome	ASM22711v2	Chromosome		13527580	yes
+108569	Neofabraea malicorticis	Neofabraea	Dermateaceae	Helotiales	Leotiomycetes	Ascomycota	Neofabraea malicorticis	1	GCA_047495995.1	reference genome	ASM4749599v1	Chromosome		51589251	no
+121618	Neofusicoccum laricinum	Neofusicoccum	Botryosphaeriaceae	Botryosphaeriales	Dothideomycetes	Ascomycota	Neofusicoccum laricinum	1	GCA_029906385.1	reference genome	ASM2990638v1	Chromosome		42475318	no
+310453	Neofusicoccum parvum	Neofusicoccum	Botryosphaeriaceae	Botryosphaeriales	Dothideomycetes	Ascomycota	Neofusicoccum parvum	1	GCA_020912385.1	reference genome	ASM2091238v1	Complete Genome		43998971	no
+78403	Neonectria neomacrospora	Neonectria	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Neonectria neomacrospora	1	GCA_917563905.1	reference genome	NneoKNNDK_001_PacBio_v1	Complete Genome		37119747	no
+1562205	Neopestalotiopsis rosae	Neopestalotiopsis	Sporocadaceae	Amphisphaeriales	Sordariomycetes	Ascomycota	Neopestalotiopsis rosae	2	GCA_046115455.1		ASM4611545v1	Chromosome		52640049	no
+3473904	Neopestalotiopsis sp. HY66	Neopestalotiopsis	Sporocadaceae	Amphisphaeriales	Sordariomycetes	Ascomycota	Neopestalotiopsis sp. HY66	1	GCA_054134715.1		ASM5413471v1	Complete Genome		50287662	no
+108428	Neoscytalidium dimidiatum	Neoscytalidium	Botryosphaeriaceae	Botryosphaeriales	Dothideomycetes	Ascomycota	Neoscytalidium dimidiatum	1	GCA_037367355.1	reference genome	ASM3736735v1	Chromosome		43759583	no
+5141	Neurospora crassa	Neurospora	Sordariaceae	Sordariales	Sordariomycetes	Ascomycota	Neurospora crassa OR74A	2	GCF_000182925.2	reference genome	NC12	Chromosome		41037538	yes
+29879	Neurospora discreta	Neurospora	Sordariaceae	Sordariales	Sordariomycetes	Ascomycota	Neurospora discreta	1	GCA_965284875.1	reference genome	8579pb	Chromosome		37712165	no
+5142	Neurospora intermedia	Neurospora	Sordariaceae	Sordariales	Sordariomycetes	Ascomycota	Neurospora intermedia	1	GCA_052058435.2	reference genome	ASM5205843v2	Complete Genome		39818942	no
+2022760	Nigrospora osmanthi	Nigrospora	Apiosporaceae	Amphisphaeriales	Sordariomycetes	Ascomycota	Nigrospora osmanthi	1	GCA_029489945.1	reference genome	ASM2948994v1	Complete Genome		45903216	no
+2060155	Nothopassalora personata	Nothopassalora	Mycosphaerellaceae	Mycosphaerellales	Dothideomycetes	Ascomycota	Nothopassalora personata	2	GCA_033816765.1	reference genome	ASM3381676v1	Chromosome		54641376	no
+1005962	Ogataea parapolymorpha	Ogataea	Pichiaceae	Pichiales	Pichiomycetes	Ascomycota	Ogataea parapolymorpha DL-1	4	GCF_000187245.1	reference genome	Hansenula_2	Chromosome		8874589	yes
+460523	Ogataea polymorpha	Ogataea	Pichiaceae	Pichiales	Pichiomycetes	Ascomycota	Ogataea polymorpha	2	GCA_020023485.1		ASM2002348v1	Complete Genome		9104331	no
+61273	Ophiostoma piceae	Ophiostoma	Ophiostomataceae	Ophiostomatales	Sordariomycetes	Ascomycota	Ophiostoma piceae	1	GCA_032248835.1	reference genome	ASM3224883v1	Chromosome		31915525	no
+264951	Paecilomyces variotii	Paecilomyces	Thermoascaceae	Eurotiales	Eurotiomycetes	Ascomycota	Paecilomyces variotii	1	GCA_003990805.1		ASM399080v1	Chromosome		30810313	no
+50381	Pallidohirschioporus biformis	Pallidohirschioporus	Hirschioporaceae	Hymenochaetales	Agaricomycetes	Basidiomycota	Pallidohirschioporus biformis	1	GCA_040954535.1	reference genome	ASM4095453v1	Chromosome		50649296	no
+5636	Panellus stipticus	Panellus	Mycenaceae	Agaricales	Agaricomycetes	Basidiomycota	Panellus stipticus	1	GCA_965154625.1	reference genome	gfPanStip1.1	Chromosome		40150070	no
+1463510	Parajaminaea phylloscopi	Parajaminaea		Microstromatales	Exobasidiomycetes	Basidiomycota	Parajaminaea phylloscopi	1	GCA_976943335.1	reference genome	jamPhyA2	Complete Genome		18271894	yes
+1500003	Paraphysoderma sedebokerense	Paraphysoderma	Physodermataceae	Physodermatales	Physodermatomycetes	Blastocladiomycota	Paraphysoderma sedebokerense	1	GCA_060697205.1	reference genome	ASM6069720v1	Chromosome		27509606	no
+13684	Parastagonospora nodorum	Parastagonospora	Phaeosphaeriaceae	Pleosporales	Dothideomycetes	Ascomycota	Parastagonospora nodorum	6	GCA_051013865.1		ASM5101386v1	Complete Genome		34735612	no
+286661	Peltaster fructicola	Peltaster			Dothideomycetes	Ascomycota	Peltaster fructicola	1	GCA_001592805.2	reference genome	ASM159280v2	Complete Genome		18987130	yes
+5076	Penicillium chrysogenum	Penicillium	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Penicillium chrysogenum	3	GCA_044231865.1		ASM4423186v1	Complete Genome		32569297	no
+310288	Penicillium coffeae	Penicillium	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Penicillium coffeae	1	GCA_035985395.1	reference genome	ASM3598539v1	Complete Genome		30909372	no
+36656	Penicillium crustosum	Penicillium	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Penicillium crustosum	1	GCA_054966605.1		ASM5496660v1	Complete Genome		32366270	no
+36651	Penicillium digitatum	Penicillium	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Penicillium digitatum	2	GCF_016767815.1	reference genome	ASM1676781v1	Complete Genome		26336737	yes
+463681	Penicillium fuscoglaucum	Penicillium	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Penicillium fuscoglaucum	1	GCA_040250155.1	reference genome	Pf_T2	Complete Genome		35121114	no
+69774	Penicillium herquei	Penicillium	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Penicillium herquei	1	GCA_039634405.1	reference genome	ASM3963440v1	Complete Genome		34932529	no
+69781	Penicillium oxalicum	Penicillium	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Penicillium oxalicum	4	GCF_001723175.1	reference genome	ASM172317v3	Chromosome		30795872	yes
+68879	Penicillium paneum	Penicillium	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Penicillium paneum	1	GCA_051521465.1	reference genome	ASM5152146v1	Chromosome		27132231	no
+60169	Penicillium polonicum	Penicillium	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Penicillium polonicum	2	GCA_034423695.1	reference genome	ASM3442369v1	Chromosome		33750493	no
+3158075	Penicillium psychrofluorescens	Penicillium	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Penicillium psychrofluorescens	2	GCF_964197705.1	reference genome	Pfluo_KMR99	Chromosome		26257727	yes
+5082	Penicillium roqueforti	Penicillium	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Penicillium roqueforti	1	GCA_030518555.1		ASM3051855v1	Complete Genome		28754521	no
+3421219	Peroneutypa diatrypoides	Peroneutypa	Diatrypaceae	Xylariales	Sordariomycetes	Ascomycota	Peroneutypa diatrypoides	1	GCA_054134705.1		ASM5413470v1	Chromosome		48023113	no
+173182	Pestalotiopsis disseminata	Pestalotiopsis	Sporocadaceae	Amphisphaeriales	Sordariomycetes	Ascomycota	Pestalotiopsis disseminata	1	GCA_055824565.1	reference genome	ASM5582456v1	Complete Genome		46675635	no
+85828	Pestalotiopsis microspora	Pestalotiopsis	Sporocadaceae	Amphisphaeriales	Sordariomycetes	Ascomycota	Pestalotiopsis microspora	1	GCA_041412015.1	reference genome	ASM4141201v1	Complete Genome		50315141	no
+36022	Petasospora fabianii	Petasospora	Wickerhamomycetaceae	Phaffomycetales	Saccharomycetes	Ascomycota	Petasospora fabianii	2	GCA_022641835.1	reference genome	ASM2264183v1	Complete Genome		12292641	no
+2709074	Phaeoclavulina alboapiculata	Phaeoclavulina	Gomphaceae	Gomphales	Agaricomycetes	Basidiomycota	Phaeoclavulina alboapiculata	1	GCA_965217405.1	reference genome	gfPhaAlbo1.hap1.1	Chromosome		49419918	no
+222052	Phlegmacium triumphans	Phlegmacium	Cortinariaceae	Agaricales	Agaricomycetes	Basidiomycota	Phlegmacium triumphans	1	GCA_965275855.1	reference genome	gfCorTriu1.hap1.1	Chromosome		168565024	no
+108571	Phlyctema vagabunda	Phlyctema	Dermateaceae	Helotiales	Leotiomycetes	Ascomycota	Phlyctema vagabunda	1	GCA_045999785.1	reference genome	ASM4599978v1	Chromosome		38181227	yes
+36015	Pichia kluyveri	Pichia	Pichiaceae	Pichiales	Pichiomycetes	Ascomycota	Pichia kluyveri	1	GCA_030062975.1	reference genome	ASM3006297v1	Chromosome		10870839	no
+4909	Pichia kudriavzevii	Pichia	Pichiaceae	Pichiales	Pichiomycetes	Ascomycota	Pichia kudriavzevii	5	GCF_003054445.1	reference genome	ASM305444v1	Complete Genome		10812555	yes
+54551	Pichia terricola	Pichia	Pichiaceae	Pichiales	Pichiomycetes	Ascomycota	Pichia terricola	1	GCA_030168465.1	reference genome	ASM3016846v1	Complete Genome		12505616	no
+3058364	Pithoascus sp. SM-2023a	Pithoascus	Microascaceae	Microascales	Sordariomycetes	Ascomycota	Pithoascus sp. SM-2023a	1	GCA_052083585.1		Pkur_CBS149789_1.0	Chromosome		33937380	no
+78070	Platismatia glauca	Platismatia	Parmeliaceae	Lecanorales	Lecanoromycetes	Ascomycota	Platismatia glauca	1	GCA_963556305.1	reference genome	glPlaGlau9.1	Chromosome		33190042	no
+5022	Plenodomus lingam	Plenodomus	Leptosphaeriaceae	Pleosporales	Dothideomycetes	Ascomycota	Plenodomus lingam	2	GCA_059453465.1		ASM5945346v1	Complete Genome		42736573	no
+5321	Pleurotus cornucopiae	Pleurotus	Pleurotaceae	Agaricales	Agaricomycetes	Basidiomycota	Pleurotus cornucopiae	1	GCA_019677325.2	reference genome	ASM1967732v2	Chromosome		32382086	yes
+5323	Pleurotus eryngii	Pleurotus	Pleurotaceae	Agaricales	Agaricomycetes	Basidiomycota	Pleurotus eryngii	1	GCA_980434285.1	reference genome	gfPleEryn1.hap1.1	Chromosome		48997223	no
+5322	Pleurotus ostreatus	Pleurotus	Pleurotaceae	Agaricales	Agaricomycetes	Basidiomycota	Pleurotus ostreatus	5	GCA_029852705.2		AS_PC9.15	Chromosome		35312784	yes
+28995	Pleurotus pulmonarius	Pleurotus	Pleurotaceae	Agaricales	Agaricomycetes	Basidiomycota	Pleurotus pulmonarius	2	GCA_057657895.1	reference genome	ASM5765789v1	Complete Genome		40306054	no
+2698480	Pneumocystis sp. 'macacae'	Pneumocystis	Pneumocystaceae	Pneumocystales	Pneumocystomycetes	Ascomycota	Pneumocystis sp. 'macacae'	1	GCA_018127085.1		P2C.v1.0	Chromosome		8274841	yes
+38082	Pneumocystis wakefieldiae	Pneumocystis	Pneumocystaceae	Pneumocystales	Pneumocystomycetes	Ascomycota	Pneumocystis wakefieldiae	1	GCA_017301755.1	reference genome	ASM1730175v1	Complete Genome		7303369	yes
+280754	Pochonia chlamydosporia	Pochonia	Clavicipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Pochonia chlamydosporia 170	3	GCF_001653235.2	reference genome	ASM165323v2	Chromosome		44215803	yes
+62727	Podosphaera fusca	Podosphaera	Erysiphaceae	Helotiales	Leotiomycetes	Ascomycota	Podosphaera fusca	1	GCA_030378345.1	reference genome	ASM3037834v1	Chromosome		156824485	no
+2587412	Podospora anserina	Podospora	Podosporaceae	Sordariales	Sordariomycetes	Ascomycota	Podospora anserina	1	GCA_017654855.1		PaWa137m	Chromosome		35861834	no
+2093777	Podospora bellae-mahoneyi	Podospora	Podosporaceae	Sordariales	Sordariomycetes	Ascomycota	Podospora bellae-mahoneyi	2	GCF_035222275.1	reference genome	CBS112042p_1.0	Chromosome		34330348	yes
+48703	Podospora comata	Podospora	Podosporaceae	Sordariales	Sordariomycetes	Ascomycota	Podospora comata	2	GCA_017354895.1	reference genome	ASM1735489v1	Chromosome		34474293	no
+2609844	Podospora pseudoanserina	Podospora	Podosporaceae	Sordariales	Sordariomycetes	Ascomycota	Podospora pseudoanserina	2	GCF_035222485.1	reference genome	CBS124.78p_1.0	Chromosome		34828952	yes
+2093779	Podospora pseudocomata	Podospora	Podosporaceae	Sordariales	Sordariomycetes	Ascomycota	Podospora pseudocomata	3	GCF_035222375.1	reference genome	CBS415.72m_1.0	Chromosome		34981282	yes
+2093780	Podospora pseudopauciseta	Podospora	Podosporaceae	Sordariales	Sordariomycetes	Ascomycota	Podospora pseudopauciseta	2	GCF_035222475.1	reference genome	CBS411.78m_1.0	Chromosome		36064112	yes
+1398758	Porpolomopsis calyptriformis	Porpolomopsis	Hygrophoraceae	Agaricales	Agaricomycetes	Basidiomycota	Porpolomopsis calyptriformis	1	GCA_951640195.1	reference genome	gfPorCaly1.1	Chromosome		33460502	no
+230822	Psathyrella piluliformis	Psathyrella	Psathyrellaceae	Agaricales	Agaricomycetes	Basidiomycota	Psathyrella piluliformis	1	GCA_988265185.1	reference genome	gfPsaPilu1.hap1.1	Chromosome		40971153	no
+5483	Pseudozyma tsukubaensis	Pseudozyma	Ustilaginaceae	Ustilaginales	Ustilaginomycetes	Basidiomycota	Pseudozyma tsukubaensis	1	GCA_060595785.1	reference genome	ASM6059578v1	Complete Genome		20223705	no
+181762	Psilocybe cubensis	Psilocybe	Agrocybaceae	Agaricales	Agaricomycetes	Basidiomycota	Psilocybe cubensis	4	GCF_017499595.1	reference genome	MGC_Penvy_1	Chromosome		46389424	yes
+5297	Puccinia graminis	Puccinia	Pucciniaceae	Pucciniales	Pucciniomycetes	Basidiomycota	Puccinia graminis f. sp. tritici	1	GCA_002762355.2		KSU_Pgt_99KS76A_2.0	Chromosome		180451548	no
+27345	Puccinia hordei	Puccinia	Pucciniaceae	Pucciniales	Pucciniomycetes	Basidiomycota	Puccinia hordei	20	GCA_062009444.1	reference genome	ASM62009444v1	Chromosome		161364534	no
+684837	Puccinia polysora	Puccinia	Pucciniaceae	Pucciniales	Pucciniomycetes	Basidiomycota	Puccinia polysora	1	GCA_025617555.3	reference genome	ASM2561755v3	Chromosome		1711118552	no
+2065218	Puccinia silphii	Puccinia	Pucciniaceae	Pucciniales	Pucciniomycetes	Basidiomycota	Puccinia silphii	2	GCA_050655635.1	reference genome	ASM5065563v1	Chromosome		37500256	no
+27350	Puccinia striiformis	Puccinia	Pucciniaceae	Pucciniales	Pucciniomycetes	Basidiomycota	Puccinia striiformis f. sp. tritici	17	GCF_021901695.1	reference genome	Pst134E36_v1_pri	Chromosome		89491239	yes
+208348	Puccinia triticina	Puccinia	Pucciniaceae	Pucciniales	Pucciniomycetes	Basidiomycota	Puccinia triticina	9	GCF_026914185.1	reference genome	ASM2691418v1	Complete Genome		122823596	yes
+2060973	Purpureocillium takamizusanense	Purpureocillium	Ophiocordycipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Purpureocillium takamizusanense	2	GCF_022605165.1	reference genome	ASM2260516v1	Complete Genome		35574015	yes
+53485	Pyrenophora teres	Pyrenophora	Pleosporaceae	Pleosporales	Dothideomycetes	Ascomycota	Pyrenophora teres f. maculata	9	GCA_014334815.1	reference genome	ASM1433481v1	Complete Genome		42027478	no
+45151	Pyrenophora tritici-repentis	Pyrenophora	Pleosporaceae	Pleosporales	Dothideomycetes	Ascomycota	Pyrenophora tritici-repentis	10	GCF_003171515.1	reference genome	CUR_PTRM4_2.2	Chromosome		40738834	yes
+148305	Pyricularia grisea	Pyricularia	Pyriculariaceae	Magnaporthales	Sordariomycetes	Ascomycota	Pyricularia grisea	2	GCF_004355905.1	reference genome	PgNI	Chromosome		44557582	yes
+318829	Pyricularia oryzae	Pyricularia	Pyriculariaceae	Magnaporthales	Sordariomycetes	Ascomycota	Pyricularia oryzae 70-15	56	GCF_000002495.2	reference genome	MG8	Chromosome		40979121	yes
+2173144	Pyricularia penniseti	Pyricularia	Pyriculariaceae	Magnaporthales	Sordariomycetes	Ascomycota	Pyricularia penniseti	1	GCA_041721605.1	reference genome	FAFU-Ppen-JC-1-v1.0	Complete Genome		41925553	no
+1578925	Pyricularia pennisetigena	Pyricularia	Pyriculariaceae	Magnaporthales	Sordariomycetes	Ascomycota	Pyricularia pennisetigena	3	GCF_004337985.1	reference genome	PpBr36	Chromosome		49117040	yes
+403063	Pyricularia sp. CBS 133598	Pyricularia	Pyriculariaceae	Magnaporthales	Sordariomycetes	Ascomycota	Pyricularia sp. CBS 133598	1	GCA_004337975.1		PspLS	Chromosome		41493134	yes
+2282107	Pyrrhoderma noxium	Pyrrhoderma	Hymenochaetaceae	Hymenochaetales	Agaricomycetes	Basidiomycota	Pyrrhoderma noxium	1	GCA_002287475.2	reference genome	ASM228747v2	Chromosome		31444514	yes
+56482	Ramalina siliquosa	Ramalina	Ramalinaceae	Lecanorales	Lecanoromycetes	Ascomycota	Ramalina siliquosa	1	GCA_965218175.1	reference genome	glRamSili2.1	Chromosome		38980098	no
+749444	Ramariopsis corniculata	Ramariopsis	Clavariaceae	Agaricales	Agaricomycetes	Basidiomycota	Ramariopsis corniculata	1	GCA_964341195.1	reference genome	gfRamCorn1.1	Chromosome		47619182	no
+1093211	Ramularia vizellae	Ramularia	Mycosphaerellaceae	Mycosphaerellales	Dothideomycetes	Ascomycota	Ramularia vizellae	1	GCA_976913895.1	reference genome	gdRamVize2.1	Chromosome		58097694	no
+72144	Remersonia thermophila	Remersonia	Chaetomiaceae	Sordariales	Sordariomycetes	Ascomycota	Remersonia thermophila	2	GCF_042764415.1	reference genome	Remth1	Complete Genome		27414229	yes
+456999	Rhizoctonia solani	Rhizoctonia	Ceratobasidiaceae	Cantharellales	Agaricomycetes	Basidiomycota	Rhizoctonia solani	4	GCF_016906535.1	reference genome	ASM1690653v1	Complete Genome		40703773	yes
+588596	Rhizophagus irregularis	Rhizophagus	Glomeraceae	Glomerales	Glomeromycetes	Glomeromycota	Rhizophagus irregularis	7	GCF_026210795.1	reference genome	ASM2621079v1	Chromosome		146773001	yes
+85970	Rhizopogon luteolus	Rhizopogon	Rhizopogonaceae	Boletales	Agaricomycetes	Basidiomycota	Rhizopogon luteolus	2	GCA_986172025.1	reference genome	gfRhiLute1.hap1.1	Chromosome		41623233	no
+4846	Rhizopus stolonifer	Rhizopus	Rhizopodaceae	Mucorales	Mucoromycetes	Mucoromycota	Rhizopus stolonifer	2	GCA_059058645.1	reference genome	ASM5905864v1	Chromosome		48208381	no
+57485	Rhizosphaera kalkhoffii	Rhizosphaera	Dothideaceae	Dothideales	Dothideomycetes	Ascomycota	Rhizosphaera kalkhoffii	1	GCA_964106605.1	reference genome	gdRhiKalk1.hap1.1	Chromosome		24808958	no
+71918	Rhodocollybia maculata	Rhodocollybia	Omphalotaceae	Agaricales	Agaricomycetes	Basidiomycota	Rhodocollybia maculata	1	GCA_965654425.1	reference genome	gfRhoMacu1.hap1.1	Chromosome		143321711	no
+100910	Rhodosporidiobolus nylandii	Rhodosporidiobolus	Sporidiobolaceae	Sporidiobolales	Microbotryomycetes	Basidiomycota	Rhodosporidiobolus nylandii	1	GCA_051805555.1	reference genome	RnylJCM10213v2	Complete Genome		25667008	yes
+86836	Rhodotorula kratochvilovae	Rhodotorula	Sporidiobolaceae	Sporidiobolales	Microbotryomycetes	Basidiomycota	Rhodotorula kratochvilovae	3	GCA_056149925.1	reference genome	EIMB_Rkra_OB1_1.0	Complete Genome		22171710	no
+5537	Rhodotorula mucilaginosa	Rhodotorula	Sporidiobolaceae	Sporidiobolales	Microbotryomycetes	Basidiomycota	Rhodotorula mucilaginosa	2	GCA_034406715.1	reference genome	ASM3440671v1	Complete Genome		20314606	no
+86839	Rhodotorula sphaerocarpa	Rhodotorula	Sporidiobolaceae	Sporidiobolales	Microbotryomycetes	Basidiomycota	Rhodotorula sphaerocarpa	1	GCA_051805495.1	reference genome	RsphJCM8202v2	Complete Genome		17498718	yes
+5286	Rhodotorula toruloides	Rhodotorula	Sporidiobolaceae	Sporidiobolales	Microbotryomycetes	Basidiomycota	Rhodotorula toruloides	7	GCA_051805525.1		RtNBRC10513v2	Complete Genome		20635648	yes
+2792576	Rhynchosporium graminicola	Rhynchosporium	Ploettnerulaceae	Helotiales	Leotiomycetes	Ascomycota	Rhynchosporium graminicola	1	GCA_046529785.1	reference genome	ASM4652978v1	Complete Genome		57756617	yes
+230827	Ripartites tricholoma	Ripartites	Paralepistaceae	Agaricales	Agaricomycetes	Basidiomycota	Ripartites tricholoma	1	GCA_964187995.1	reference genome	gfRipTric1.1	Chromosome		59827961	no
+3163303	Russula aff. farinipes	Russula	Russulaceae	Russulales	Agaricomycetes	Basidiomycota	Russula aff. farinipes	1	GCA_964199335.1		gfRusFari1.1	Chromosome		38985979	no
+111140	Russula delica	Russula	Russulaceae	Russulales	Agaricomycetes	Basidiomycota	Russula delica	1	GCA_965112905.1	reference genome	gfRusDeli1.hap1.1	Chromosome		49022622	no
+1033783	Russula faginea	Russula	Russulaceae	Russulales	Agaricomycetes	Basidiomycota	Russula faginea	1	GCA_964330295.1	reference genome	gfRusFagi1.1	Chromosome		41716408	no
+176794	Russula gracillima	Russula	Russulaceae	Russulales	Agaricomycetes	Basidiomycota	Russula gracillima	1	GCA_975961605.1	reference genome	gfRusGrai3.1	Chromosome		41361926	no
+152964	Russula nigricans	Russula	Russulaceae	Russulales	Agaricomycetes	Basidiomycota	Russula nigricans	2	GCA_964656355.1	reference genome	gfRusNigr1.hap2.1	Chromosome		45011098	no
+2830151	Russula nobilis	Russula	Russulaceae	Russulales	Agaricomycetes	Basidiomycota	Russula nobilis	1	GCA_984573805.1	reference genome	gfRusNobi1.hap1.1	Chromosome		37918106	no
+152966	Russula olivacea	Russula	Russulaceae	Russulales	Agaricomycetes	Basidiomycota	Russula olivacea	1	GCA_963926505.1	reference genome	gfRusOliv1.1	Chromosome		38334703	no
+176829	Russula versicolor	Russula	Russulaceae	Russulales	Agaricomycetes	Basidiomycota	Russula versicolor	1	GCA_984589305.1	reference genome	gfRusVeri1.hap1.1	Chromosome		38121725	no
+152972	Russula vesca	Russula	Russulaceae	Russulales	Agaricomycetes	Basidiomycota	Russula vesca	1	GCA_965121685.1	reference genome	gfRusVesc1.hap1.1	Chromosome		55098841	no
+706196	Saccharomyces arboricola	Saccharomyces	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Saccharomyces arboricola H-6	2	GCA_000292725.1	reference genome	SacArb1.0	Chromosome		11547373	yes
+4932	Saccharomyces cerevisiae	Saccharomyces	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Saccharomyces cerevisiae S288C	705	GCF_000146045.2	reference genome	R64	Complete Genome		12071326	yes
+589904	Saccharomyces cerevisiae/Schizosaccharomyces pombe fusant					Ascomycota	Saccharomyces cerevisiae/Schizosaccharomyces pombe fusant	1	GCA_047651925.1		ASM4765192v1	Complete Genome		12140023	no
+1080349	Saccharomyces eubayanus	Saccharomyces	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Saccharomyces eubayanus	7	GCF_001298625.1	reference genome	SEUB3.0	Chromosome		11670174	yes
+1987369	Saccharomyces jurei	Saccharomyces	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Saccharomyces jurei	1	GCA_900290405.1	reference genome	SacJureiUoM1	Complete Genome		11833026	yes
+114524	Saccharomyces kudriavzevii	Saccharomyces	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Saccharomyces kudriavzevii IFO 1802	6	GCF_947243775.1	reference genome	Skud-IFO1802	Complete Genome		11913776	yes
+114525	Saccharomyces mikatae	Saccharomyces	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Saccharomyces mikatae IFO 1815	4	GCF_947241705.1	reference genome	Smik-IFO1815	Complete Genome		12104871	yes
+27291	Saccharomyces paradoxus	Saccharomyces	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Saccharomyces paradoxus	17	GCF_002079055.1	reference genome	ASM207905v1	Chromosome		12021328	yes
+27292	Saccharomyces pastorianus	Saccharomyces	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Saccharomyces pastorianus	2	GCA_056824455.1	reference genome	ASM5682445v1	Complete Genome		22346944	no
+3129044	Saccharomyces sp. FC-2024a	Saccharomyces	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Saccharomyces sp. FC-2024a	1	GCA_042257055.1		ASM4225705v1	Chromosome		12122728	no
+230603	Saccharomyces uvarum	Saccharomyces	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Saccharomyces uvarum	6	GCA_947243795.1	reference genome	Suva-ZP964	Complete Genome		11715280	yes
+4931	Saccharomyces x bayanus	Saccharomyces	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Saccharomyces x bayanus	1	GCA_019431265.1		ASM1943126v1	Complete Genome		12163509	no
+36035	Saccharomycodes ludwigii	Saccharomycodes	Saccharomycodaceae	Saccharomycodales	Saccharomycetes	Ascomycota	Saccharomycodes ludwigii	4	GCF_020623625.1	reference genome	UHD_SCDLUD_16	Chromosome		12500424	yes
+4944	Saccharomycopsis fibuligera	Saccharomycopsis	Saccharomycopsidaceae	Ascoideales	Saccharomycetes	Ascomycota	Saccharomycopsis fibuligera	3	GCA_001936155.1	reference genome	KPH12	Complete Genome		19567216	no
+1725355	Saccharomycopsis fibuligera x Saccharomycopsis cf. fibuligera	Saccharomycopsis	Saccharomycopsidaceae	Ascoideales	Saccharomycetes	Ascomycota	Saccharomycopsis fibuligera x Saccharomycopsis cf. fibuligera	1	GCA_001936135.1		KJJ81	Chromosome		38516460	no
+44092	Saccharomycopsis malanga	Saccharomycopsis	Saccharomycopsidaceae	Ascoideales	Saccharomycetes	Ascomycota	Saccharomycopsis malanga	1	GCA_004014935.1	reference genome	ASM401493v1	Complete Genome		16778506	no
+2826930	Saccharomycopsis phalli	Saccharomycopsis	Saccharomycopsidaceae	Ascoideales	Saccharomycetes	Ascomycota	Saccharomycopsis phalli	1	GCA_020342235.1	reference genome	ASM2034223v1	Complete Genome		14148124	no
+44080	Saccharomycopsis schoenii	Saccharomycopsis	Saccharomycopsidaceae	Ascoideales	Saccharomycetes	Ascomycota	Saccharomycopsis schoenii	1	GCA_054953955.1	reference genome	ASM5495395v1	Chromosome		14265609	no
+1099800	Saitoella coloradoensis	Saitoella	Saitoellaceae	Saitoellales	Saitoellomycetes	Ascomycota	Saitoella coloradoensis	1	GCA_051599425.1	reference genome	Sai_col_YB2330_v1	Complete Genome		14066465	yes
+392538	Salmacisia buchloeana	Salmacisia	Tilletiaceae	Tilletiales	Exobasidiomycetes	Basidiomycota	Salmacisia buchloeana	1	GCA_029952725.1	reference genome	ASM2995272v1	Complete Genome		20053587	no
+175686	Sanghuangporus vaninii	Sanghuangporus	Hymenochaetaceae	Hymenochaetales	Agaricomycetes	Basidiomycota	Sanghuangporus vaninii	1	GCA_041442975.1	reference genome	ASM4144297v1	Chromosome		34358263	no
+1659846	Sanghuangporus weigelae	Sanghuangporus	Hymenochaetaceae	Hymenochaetales	Agaricomycetes	Basidiomycota	Sanghuangporus weigelae	1	GCA_033182465.1	reference genome	ASM3318246v1	Complete Genome		33912918	no
+3025216	Savitreella phatthalungensis	Savitreella		Taphrinales	Taphrinomycetes	Ascomycota	Savitreella phatthalungensis	1	GCA_051599415.1	reference genome	Sav_pha_PYCC9005_v1	Complete Genome		12735194	yes
+4924	Scheffersomyces stipitis	Scheffersomyces	Debaryomycetaceae	Serinales	Pichiomycetes	Ascomycota	Scheffersomyces stipitis CBS 6054	5	GCF_000209165.1	reference genome	ASM20916v1	Chromosome		15441179	yes
+4897	Schizosaccharomyces japonicus	Schizosaccharomyces	Schizosaccharomycetaceae	Schizosaccharomycetales	Schizosaccharomycetes	Ascomycota	Schizosaccharomyces japonicus	2	GCA_032883015.1		ASM3288301v1	Complete Genome		16829384	no
+2545709	Schizosaccharomyces osmophilus	Schizosaccharomyces	Schizosaccharomycetaceae	Schizosaccharomycetales	Schizosaccharomycetes	Ascomycota	Schizosaccharomyces osmophilus	2	GCF_027921745.1	reference genome	ASM2792174v1	Complete Genome		11416521	yes
+4896	Schizosaccharomyces pombe	Schizosaccharomyces	Schizosaccharomycetaceae	Schizosaccharomycetales	Schizosaccharomycetes	Ascomycota	Schizosaccharomyces pombe	15	GCF_000002945.2	reference genome	ASM294v3	Chromosome		12571820	yes
+278131	Schizosaccharomyces versatilis (nom. inval.)	Schizosaccharomyces	Schizosaccharomycetaceae	Schizosaccharomycetales	Schizosaccharomycetes	Ascomycota	Schizosaccharomyces versatilis (nom. inval.)	1	GCA_032882995.1	reference genome	ASM3288299v1	Complete Genome		15482186	no
+5180	Sclerotinia sclerotiorum	Sclerotinia	Sclerotiniaceae	Helotiales	Leotiomycetes	Ascomycota	Sclerotinia sclerotiorum 1980 UF-70	5	GCA_001857865.1		ASM185786v1	Chromosome		38906597	yes
+215477	Septoria glycines	Septoria	Mycosphaerellaceae	Mycosphaerellales	Dothideomycetes	Ascomycota	Septoria glycines	1	GCA_055755335.1	reference genome	ASM5575533v1	Chromosome		31657954	no
+215465	Septoria linicola	Septoria	Mycosphaerellaceae	Mycosphaerellales	Dothideomycetes	Ascomycota	Septoria linicola	1	GCA_024114885.1	reference genome	ASM2411488v1	Complete Genome		39552501	yes
+39703	Septoria lycopersici	Septoria	Mycosphaerellaceae	Mycosphaerellales	Dothideomycetes	Ascomycota	Septoria lycopersici	1	GCA_059642765.1	reference genome	SLML	Chromosome		29553202	no
+935214	Simplicillium aogashimaense	Simplicillium	Cordycipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Simplicillium aogashimaense	1	GCA_028455935.1	reference genome	ASM2845593v1	Chromosome		30262571	no
+93593	Simplicillium lamellicola	Simplicillium	Cordycipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Simplicillium lamellicola	1	GCA_964211815.1	reference genome	grSimLame1.1	Chromosome		28706920	no
+3114500	Sinodiscula camellicola (nom. inval.)		Melanconiellaceae	Diaporthales	Sordariomycetes	Ascomycota	Sinodiscula camellicola (nom. inval.)	1	GCA_053477585.1	reference genome	ASM5347758v1	Complete Genome		41791220	no
+645589	Sinodiscula theae-sinensis	Sinodiscula	Melanconiellaceae	Diaporthales	Sordariomycetes	Ascomycota	Sinodiscula theae-sinensis	1	GCA_051027275.1	reference genome	ASM5102727v1	Chromosome		41238081	no
+3059160	Somion occarium	Somion	Cerrenaceae	Polyporales	Agaricomycetes	Basidiomycota	Somion occarium	1	GCA_964035595.1	reference genome	gfSpoDele1	Chromosome		30870404	yes
+5147	Sordaria macrospora	Sordaria	Sordariaceae	Sordariales	Sordariomycetes	Ascomycota	Sordaria macrospora	2	GCF_033870435.1	reference genome	ASM3387043v1	Complete Genome		39444728	yes
+1202976	Sparassis latifolia	Sparassis	Sparassidaceae	Polyporales	Agaricomycetes	Basidiomycota	Sparassis latifolia	1	GCA_018466975.1	reference genome	genome	Chromosome		41412529	no
+3016916	Sparassis minoensis	Sparassis	Sparassidaceae	Polyporales	Agaricomycetes	Basidiomycota	Sparassis minoensis	2	GCA_965199605.1	reference genome	gfSpaMino1.hap1.1	Chromosome		38117000	no
+85929	Sphaerulina musiva	Sphaerulina	Mycosphaerellaceae	Mycosphaerellales	Dothideomycetes	Ascomycota	Sphaerulina musiva	17	GCA_052057135.1		ASM5205713v1	Complete Genome		29847841	yes
+280036	Sporisorium graminicola	Sporisorium	Ustilaginaceae	Ustilaginales	Ustilaginomycetes	Basidiomycota	Sporisorium graminicola	2	GCF_005498985.1	reference genome	PGRAM_IIB_1.0	Chromosome		19565848	yes
+72558	Sporisorium reilianum	Sporisorium	Ustilaginaceae	Ustilaginales	Ustilaginomycetes	Basidiomycota	Sporisorium reilianum f. sp. reilianum	2	GCA_900162835.1	reference genome	version 2	Chromosome		18522598	yes
+49012	Sporisorium scitamineum	Sporisorium	Ustilaginaceae	Ustilaginales	Ustilaginomycetes	Basidiomycota	Sporisorium scitamineum	4	GCA_053455765.1	reference genome	ASM5345576v1	Complete Genome		19966861	no
+3026404	Sporothrix sp. FH-2023a	Sporothrix	Ophiostomataceae	Ophiostomatales	Sordariomycetes	Ascomycota	Sporothrix sp. FH-2023a	1	GCA_046114455.1		ASM4611445v1	Complete Genome		39024598	no
+2802321	Stagonosporopsis rhizophila	Stagonosporopsis	Didymellaceae	Pleosporales	Dothideomycetes	Ascomycota	Stagonosporopsis rhizophila	1	GCA_016767195.1	reference genome	ASM1676719v1	Complete Genome		33026169	no
+85908	Starmerella batistae	Starmerella	Trichomonascaceae	Dipodascales	Dipodascomycetes	Ascomycota	Starmerella batistae	1	GCA_056749365.1	reference genome	ASM5674936v1	Complete Genome		9260214	no
+75736	Starmerella bombicola	Starmerella	Trichomonascaceae	Dipodascales	Dipodascomycetes	Ascomycota	Starmerella bombicola	1	GCA_056776915.1	reference genome	ASM5677691v1	Chromosome		9827105	no
+68746	Stropharia rugosoannulata	Stropharia	Strophariaceae	Agaricales	Agaricomycetes	Basidiomycota	Stropharia rugosoannulata	2	GCA_061291925.1	reference genome	ZU_S_rug_hap1	Complete Genome		47593772	no
+796027	Sugiyamaella lignohabitans	Sugiyamaella	Trichomonascaceae	Dipodascales	Dipodascomycetes	Ascomycota	Sugiyamaella lignohabitans	2	GCF_001640025.1	reference genome	ASM164002v2	Complete Genome		15938258	yes
+279894	Sugiyamaella novakii	Sugiyamaella	Trichomonascaceae	Dipodascales	Dipodascomycetes	Ascomycota	Sugiyamaella novakii	1	GCA_050930895.1	reference genome	ASM5093089v1	Complete Genome		15347536	no
+48563	Suillus bovinus	Suillus	Suillaceae	Boletales	Agaricomycetes	Basidiomycota	Suillus bovinus	1	GCA_046055875.1		ASM4605587v1	Chromosome		43025600	no
+45354	Sungouiella intermedia	Sungouiella	Metschnikowiaceae	Serinales	Pichiomycetes	Ascomycota	Sungouiella intermedia	2	GCA_900106115.1	reference genome	CBS 141442 assembly	Chromosome		13140237	yes
+574677	Sympodiomycopsis kandeliae	Sympodiomycopsis		Microstromatales	Exobasidiomycetes	Basidiomycota	Sympodiomycopsis kandeliae	1	GCA_976943355.1	reference genome	symKanA1	Complete Genome		19249932	yes
+2696576	Taiwanofungus camphoratus	Taiwanofungus	Taiwanofungaceae	Polyporales	Agaricomycetes	Basidiomycota	Taiwanofungus camphoratus	1	GCA_003999685.1	reference genome	ASM399968v1	Complete Genome		33045214	no
+1441469	Talaromyces atroroseus	Talaromyces	Trichocomaceae	Eurotiales	Eurotiomycetes	Ascomycota	Talaromyces atroroseus	1	GCA_051125915.1		assembly_CBS18551_v3	Complete Genome		30427417	no
+28572	Talaromyces funiculosus	Talaromyces	Trichocomaceae	Eurotiales	Eurotiomycetes	Ascomycota	Talaromyces funiculosus	1	GCA_004299765.1	reference genome	ASM429976v1	Complete Genome		28488493	no
+37727	Talaromyces marneffei	Talaromyces	Trichocomaceae	Eurotiales	Eurotiomycetes	Ascomycota	Talaromyces marneffei	6	GCF_009556855.1	reference genome	ASM955685v1	Complete Genome		28198338	yes
+128442	Talaromyces pinophilus	Talaromyces	Trichocomaceae	Eurotiales	Eurotiomycetes	Ascomycota	Talaromyces pinophilus	1	GCA_001571465.2	reference genome	ASM157146v2	Complete Genome		36480443	no
+1131652	Talaromyces proteolyticus	Talaromyces	Trichocomaceae	Eurotiales	Eurotiomycetes	Ascomycota	Talaromyces proteolyticus	1	GCA_055862385.1		ASM5586238v1	Complete Genome		37778702	no
+1266744	Talaromyces purpureogenus	Talaromyces	Trichocomaceae	Eurotiales	Eurotiomycetes	Ascomycota	Talaromyces purpureogenus	1	GCA_048569275.1	reference genome	ASM4856927v1	Complete Genome		30326944	no
+121627	Talaromyces rugulosus	Talaromyces	Trichocomaceae	Eurotiales	Eurotiomycetes	Ascomycota	Talaromyces rugulosus	2	GCF_013368755.1	reference genome	ASM1336875v1	Complete Genome		35758560	yes
+3108682	Talaromyces sp. DSF149	Talaromyces	Trichocomaceae	Eurotiales	Eurotiomycetes	Ascomycota	Talaromyces sp. DSF149	1	GCA_046115495.1		ASM4611549v1	Complete Genome		33329424	no
+82525	Tausonia pullulans	Tausonia	Mrakiaceae	Cystofilobasidiales	Tremellomycetes	Basidiomycota	Tausonia pullulans	1	GCA_951802195.1	reference genome	gfTauPull1.1	Chromosome		23855166	no
+113608	Tetrapisispora phaffii	Tetrapisispora	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Tetrapisispora phaffii CBS 4417	2	GCF_000236905.1	reference genome	ASM23690v1	Chromosome		12115070	yes
+183880	Thaxterogaster croceocoeruleus	Thaxterogaster	Cortinariaceae	Agaricales	Agaricomycetes	Basidiomycota	Thaxterogaster croceocoeruleus	1	GCA_987114275.1	reference genome	gfCorCroa1.hap1.1	Chromosome		56246776	no
+78579	Thermothelomyces thermophilus	Thermothelomyces	Chaetomiaceae	Sordariales	Sordariomycetes	Ascomycota	Thermothelomyces thermophilus ATCC 42464	2	GCF_000226095.1	reference genome	ASM22609v1	Complete Genome		38744216	yes
+2587410	Thermothielavioides terrestris	Thermothielavioides	Chaetomiaceae	Sordariales	Sordariomycetes	Ascomycota	Thermothielavioides terrestris NRRL 8126	2	GCF_000226115.1	reference genome	ASM22611v1	Complete Genome		36912256	yes
+72032	Thielaviopsis punctulata	Thielaviopsis	Ceratocystidaceae	Microascales	Sordariomycetes	Ascomycota	Thielaviopsis punctulata	1	GCA_036034705.1	reference genome	UAEU_Tpunctulata.0	Chromosome		28223805	no
+4950	Torulaspora delbrueckii	Torulaspora	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Torulaspora delbrueckii	4	GCF_000243375.1	reference genome	ASM24337v1	Chromosome		9220678	yes
+48254	Torulaspora globosa	Torulaspora	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Torulaspora globosa	3	GCF_014133895.1	reference genome	ASM1413389v1	Complete Genome		9281121	yes
+1143185	Torulaspora quercuum	Torulaspora	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Torulaspora quercuum	1	GCA_946403475.1	reference genome	Wolfe_Tque_UCD657	Complete Genome		10330379	no
+5327	Trametes hirsuta	Trametes	Polyporaceae	Polyporales	Agaricomycetes	Basidiomycota	Trametes hirsuta	1	GCA_001302255.2	reference genome	TraHir072	Chromosome		37433966	no
+64657	Tremella fuciformis	Tremella	Tremellaceae	Tremellales	Tremellomycetes	Basidiomycota	Tremella fuciformis	6	GCA_032768795.1	reference genome	ASM3276879v1	Complete Genome		28148466	no
+702382	Trichoderma asperelloides	Trichoderma	Hypocreaceae	Hypocreales	Sordariomycetes	Ascomycota	Trichoderma asperelloides	1	GCA_052084505.1	reference genome	ASM5208450v1	Complete Genome		36867325	yes
+101201	Trichoderma asperellum	Trichoderma	Hypocreaceae	Hypocreales	Sordariomycetes	Ascomycota	Trichoderma asperellum	5	GCF_020647865.1	reference genome	ASM2064786v1	Complete Genome		37545380	yes
+63577	Trichoderma atroviride	Trichoderma	Hypocreaceae	Hypocreales	Sordariomycetes	Ascomycota	Trichoderma atroviride	4	GCF_020647795.1	reference genome	ASM2064779v1	Complete Genome		37300646	yes
+2034170	Trichoderma breve	Trichoderma	Hypocreaceae	Hypocreales	Sordariomycetes	Ascomycota	Trichoderma breve	2	GCF_028502605.1	reference genome	ASM2850260v1	Chromosome		38609973	yes
+58853	Trichoderma citrinoviride	Trichoderma	Hypocreaceae	Hypocreales	Sordariomycetes	Ascomycota	Trichoderma citrinoviride	1	GCA_943193705.1		grTriPseu1.1	Chromosome		32931900	no
+654480	Trichoderma cornu-damae	Trichoderma	Hypocreaceae	Hypocreales	Sordariomycetes	Ascomycota	Trichoderma cornu-damae	1	GCA_020631695.1	reference genome	ASM2063169v1	Chromosome		38604505	yes
+398673	Trichoderma gamsii	Trichoderma	Hypocreaceae	Hypocreales	Sordariomycetes	Ascomycota	Trichoderma gamsii	1	GCA_060224215.1		ASM6022421v1	Complete Genome		38480038	yes
+5544	Trichoderma harzianum	Trichoderma	Hypocreaceae	Hypocreales	Sordariomycetes	Ascomycota	Trichoderma harzianum	3	GCA_057924855.1		ASM5792485v1	Chromosome		40811729	no
+51453	Trichoderma reesei	Trichoderma	Hypocreaceae	Hypocreales	Sordariomycetes	Ascomycota	Trichoderma reesei	19	GCA_061335605.1		ASM6133560v1	Complete Genome		34726479	no
+1491008	Trichoderma semiorbis	Trichoderma	Hypocreaceae	Hypocreales	Sordariomycetes	Ascomycota	Trichoderma semiorbis	1	GCA_020045945.2	reference genome	ASM2004594v2	Complete Genome		42023549	yes
+1491479	Trichoderma simmonsii	Trichoderma	Hypocreaceae	Hypocreales	Sordariomycetes	Ascomycota	Trichoderma simmonsii	1	GCA_019565615.1	reference genome	ASM1956561v1	Complete Genome		40078385	yes
+29875	Trichoderma virens	Trichoderma	Hypocreaceae	Hypocreales	Sordariomycetes	Ascomycota	Trichoderma virens	2	GCA_020647635.1		ASM2064763v1	Complete Genome		40979523	yes
+51221	Tricholoma bakamatsutake	Tricholoma	Tricholomataceae	Agaricales	Agaricomycetes	Basidiomycota	Tricholoma bakamatsutake	1	GCA_029959215.1	reference genome	ASM2995921v1	Complete Genome		142068211	no
+176009	Tricholoma cingulatum	Tricholoma	Tricholomataceae	Agaricales	Agaricomycetes	Basidiomycota	Tricholoma cingulatum	1	GCA_964197685.1	reference genome	gfTriCing1.1	Chromosome		47866656	no
+1779456	Tricholoma hemisulphureum	Tricholoma	Tricholomataceae	Agaricales	Agaricomycetes	Basidiomycota	Tricholoma hemisulphureum	1	GCA_964034925.1	reference genome	gfTriHemi4.1	Chromosome		128910457	no
+40145	Tricholoma matsutake	Tricholoma	Tricholomataceae	Agaricales	Agaricomycetes	Basidiomycota	Tricholoma matsutake	1	GCA_026075535.2	reference genome	ASM2607553v2	Chromosome		161040721	no
+76328	Tricholoma terreum	Tricholoma	Tricholomataceae	Agaricales	Agaricomycetes	Basidiomycota	Tricholoma terreum	1	GCA_978897505.1	reference genome	gfTriTerr1.hap1.1	Chromosome		80593292	no
+63419	Trichophyton concentricum	Trichophyton	Arthrodermataceae	Onygenales	Eurotiomycetes	Ascomycota	Trichophyton concentricum	1	GCA_050494205.1	reference genome	ASM5049420v1	Complete Genome		23047073	no
+2739387	Trichophyton indotineae	Trichophyton	Arthrodermataceae	Onygenales	Eurotiomycetes	Ascomycota	Trichophyton indotineae	3	GCA_057381085.1	reference genome	ASM5738108v1	Chromosome		22260331	no
+523103	Trichophyton mentagrophytes	Trichophyton	Arthrodermataceae	Onygenales	Eurotiomycetes	Ascomycota	Trichophyton mentagrophytes	2	GCA_061346435.1		ASM6134643v1	Chromosome		23461531	no
+34387	Trichophyton tonsurans	Trichophyton	Arthrodermataceae	Onygenales	Eurotiomycetes	Ascomycota	Trichophyton tonsurans	1	GCA_047301375.1	reference genome	ASM4730137v1	Chromosome		25220530	no
+82508	Trichosporon asahii	Trichosporon	Trichosporonaceae	Trichosporonales	Tremellomycetes	Basidiomycota	Trichosporon asahii var. asahii	2	GCA_061613165.1		ASM61613165v1	Complete Genome		25523718	no
+3080368	Trichosporon austroamericanum	Trichosporon	Trichosporonaceae	Trichosporonales	Tremellomycetes	Basidiomycota	Trichosporon austroamericanum	6	GCA_050084555.1	reference genome	ASM5008455v1	Complete Genome		20968827	no
+47278	Trichothecium roseum	Trichothecium		Hypocreales	Sordariomycetes	Ascomycota	Trichothecium roseum	2	GCA_026184415.1	reference genome	ASM2618441v1	Complete Genome		33510174	yes
+87276	Umbilicaria deusta	Umbilicaria	Umbilicariaceae	Umbilicariales	Lecanoromycetes	Ascomycota	Umbilicaria deusta	1	GCA_964340765.1	reference genome	glUmbDeus1.1	Chromosome		40755763	no
+1159556	Ustilaginoidea virens	Ustilaginoidea	Clavicipitaceae	Hypocreales	Sordariomycetes	Ascomycota	Ustilaginoidea virens	5	GCF_000687475.1	reference genome	ASM68747v2	Complete Genome		37060086	yes
+307758	Ustilago bromivora	Ustilago	Ustilaginaceae	Ustilaginales	Ustilaginomycetes	Basidiomycota	Ustilago bromivora	1	GCA_900080155.1	reference genome	UBRO_v3	Complete Genome		20447485	yes
+120017	Ustilago hordei	Ustilago	Ustilaginaceae	Ustilaginales	Ustilaginomycetes	Basidiomycota	Ustilago hordei	7	GCA_022749175.1		ASM2274917v1	Complete Genome		25779436	yes
+6039	Vairimorpha necatrix	Vairimorpha	Nosematidae			Microsporidia	Vairimorpha necatrix	2	GCF_036630325.1	reference genome	ASM3663032v1	Complete Genome		15005441	yes
+181172	Vanrija albida	Vanrija	Trichosporonaceae	Trichosporonales	Tremellomycetes	Basidiomycota	Vanrija albida	1	GCA_056149945.1		EIMB_Valb_LG2_1.0	Complete Genome		22508700	no
+143232	Vanrija pseudolonga	Vanrija	Trichosporonaceae	Trichosporonales	Tremellomycetes	Basidiomycota	Vanrija pseudolonga	2	GCF_020906515.1	reference genome	ASM2090651v1	Complete Genome		24922244	yes
+50376	Venturia effusa	Venturia	Venturiaceae	Venturiales	Dothideomycetes	Ascomycota	Venturia effusa	1	GCA_007735645.1	reference genome	ASM773564v1	Complete Genome		45212240	yes
+27335	Verticillium albo-atrum	Verticillium	Plectosphaerellaceae	Glomerellales	Sordariomycetes	Ascomycota	Verticillium albo-atrum	1	GCA_049907295.1	reference genome	ASM4990729v1	Chromosome		35951141	no
+27337	Verticillium dahliae	Verticillium	Plectosphaerellaceae	Glomerellales	Sordariomycetes	Ascomycota	Verticillium dahliae VdLs.17	6	GCA_000952015.1		ASM95201v1	Complete Genome		35973870	no
+1051616	Verticillium nonalfalfae	Verticillium	Plectosphaerellaceae	Glomerellales	Sordariomycetes	Ascomycota	Verticillium nonalfalfae	2	GCA_019551875.1		ASM1955187v1	Complete Genome		33577733	no
+132580	Verticillium nubilum	Verticillium	Plectosphaerellaceae	Glomerellales	Sordariomycetes	Ascomycota	Verticillium nubilum	1	GCA_050230855.1	reference genome	ASM5023085v1	Chromosome		38372605	no
+3680444	Verweija noviomagensis						Verweija noviomagensis	1	GCA_061613935.1		CBS151398v1	Complete Genome		30165745	no
+908347	Volvariella surrecta	Volvariella	Pluteaceae	Agaricales	Agaricomycetes	Basidiomycota	Volvariella surrecta	1	GCA_951802395.1	reference genome	gfVolSurr1.1	Chromosome		27932191	no
+45788	Wickerhamiella domercqiae	Wickerhamiella	Trichomonascaceae	Dipodascales	Dipodascomycetes	Ascomycota	Wickerhamiella domercqiae	1	GCA_056776945.1	reference genome	ASM5677694v1	Complete Genome		8515405	no
+27304	Wickerhamiella versatilis	Wickerhamiella	Trichomonascaceae	Dipodascales	Dipodascomycetes	Ascomycota	Wickerhamiella versatilis	1	GCA_056776975.1	reference genome	ASM5677697v1	Chromosome		9428395	no
+4903	Williopsis jadinii	Williopsis	Wickerhamomycetaceae	Phaffomycetales	Saccharomycetes	Ascomycota	Williopsis jadinii	1	GCA_000328385.1		Cuti_1.0	Chromosome		14275310	no
+2788929	Wolfiporia hoelen	Wolfiporia	Phaeolaceae	Polyporales	Agaricomycetes	Basidiomycota	Wolfiporia hoelen	1	GCA_043792045.1	reference genome	IMPLAD_Wohoe_1	Chromosome		59683812	no
+107463	Xanthoria parietina	Xanthoria	Teloschistaceae	Teloschistales	Lecanoromycetes	Ascomycota	Xanthoria parietina	1	GCA_964656405.1	reference genome	glXanPari1.1	Chromosome		30403552	no
+403056	Xenopyricularia zizaniicola	Xenopyricularia	Pyriculariaceae	Magnaporthales	Sordariomycetes	Ascomycota	Xenopyricularia zizaniicola	1	GCA_049724125.1	reference genome	JB-1.v1.0	Chromosome		40888459	no
+2315449	Yamadazyma tenuis	Yamadazyma	Debaryomycetaceae	Serinales	Pichiomycetes	Ascomycota	Yamadazyma tenuis	2	GCF_029203305.1	reference genome	ASM2920330v1	Complete Genome		10831699	yes
+4952	Yarrowia lipolytica	Yarrowia		Dipodascales	Dipodascomycetes	Ascomycota	Yarrowia lipolytica	28	GCF_001761485.1	reference genome	ASM176148v1	Complete Genome		20500066	yes
+4956	Zygosaccharomyces rouxii	Zygosaccharomyces	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Zygosaccharomyces rouxii	2	GCF_000026365.1	reference genome	ASM2636v1	Chromosome		9764635	yes
+42260	Zygotorulaspora mrakii	Zygotorulaspora	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Zygotorulaspora mrakii	2	GCF_013402915.1	reference genome	ASM1340291v1	Complete Genome		10412516	yes
+1047171	Zymoseptoria tritici	Zymoseptoria	Mycosphaerellaceae	Mycosphaerellales	Dothideomycetes	Ascomycota	Zymoseptoria tritici IPO323	20	GCF_000219625.1	reference genome	MYCGR v2.0	Chromosome		39686251	yes
+566037	[Ashbya] aceris (nom. inval.)	Eremothecium	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	[Ashbya] aceris (nom. inval.)	1	GCA_000412225.2	reference genome	ASM41222v2	Complete Genome		8867527	yes
+148631	[Candida] anglica	Kurtzmaniella	Debaryomycetaceae	Serinales	Pichiomycetes	Ascomycota	[Candida] anglica	1	GCA_963924405.1	reference genome	CAAN4	Complete Genome		13719988	yes
+5477	[Candida] boidinii	Ogataea	Pichiaceae	Pichiales	Pichiomycetes	Ascomycota	[Candida] boidinii	1	GCA_037935595.1	reference genome	ASM3793559v1	Complete Genome		19192582	no
+3367071	[Cyberlindnera] hibernica	Williopsis	Wickerhamomycetaceae	Phaffomycetales	Saccharomycetes	Ascomycota	[Cyberlindnera] hibernica	1	GCA_049863605.1	reference genome	ASM4986360v1	Complete Genome		11487548	no
+2248776	[Emmonsia] soli	Emergomyces	Ajellomycetaceae	Onygenales	Eurotiomycetes	Ascomycota	[Emmonsia] soli	1	GCA_061611845.1	reference genome	CBS142607v2	Chromosome		28662731	no

@@ -48,13 +48,20 @@ CATEGORY_RANK = {"reference genome": 2, "representative genome": 1}
 TAXON_LEVELS = ["species", "genus", "family", "order", "class", "phylum"]
 LINEAGE_COLUMNS = ["genus", "family", "order", "class", "phylum"]
 
+# COLUMNS = (
+#     ["species_taxid", "species_name"] + LINEAGE_COLUMNS + [
+#         "organism_name", "n_assemblies_passing_filters", "accession",
+#         "source_database", "refseq_category", "assembly_name", "assembly_level",
+#         "release_date", "bioproject", "biosample",
+#         "total_sequence_length", "gc_percent", "contig_n50", "scaffold_n50",
+#         "number_of_contigs", "number_of_scaffolds", "annotated",
+#     ]
+# )
+
 COLUMNS = (
     ["species_taxid", "species_name"] + LINEAGE_COLUMNS + [
-        "organism_name", "n_assemblies_passing_filters", "accession",
-        "source_database", "refseq_category", "assembly_name", "assembly_level",
-        "release_date", "bioproject", "biosample",
-        "total_sequence_length", "gc_percent", "contig_n50", "scaffold_n50",
-        "number_of_contigs", "number_of_scaffolds", "annotated",
+        "organism_name", "n_assemblies_passing_filters", "accession", "refseq_category", "assembly_name", "assembly_level",
+        "release_date", "total_sequence_length", "annotated",
     ]
 )
 
@@ -146,19 +153,16 @@ def to_row(rec: dict, sp_id: str, sp_name: str, lineage: Dict[str, Dict[str, str
         "organism_name": get(rec, "organism.organism_name"),
         "n_assemblies_passing_filters": n,
         "accession": rec.get("accession", ""),
-        "source_database": rec.get("source_database", ""),
         "refseq_category": get(rec, f"{ai}.refseq_category"),
         "assembly_name": get(rec, f"{ai}.assembly_name"),
         "assembly_level": get(rec, f"{ai}.assembly_level"),
-        "release_date": get(rec, f"{ai}.release_date"),
-        "bioproject": get(rec, f"{ai}.bioproject_accession"),
-        "biosample": get(rec, f"{ai}.biosample.accession"),
+        #"release_date": get(rec, f"{ai}.release_date"),
         "total_sequence_length": int(num(get(rec, f"{st}.total_sequence_length")) or 0),
-        "gc_percent": get(rec, f"{st}.gc_percent"),
-        "contig_n50": get(rec, f"{st}.contig_n50"),
-        "scaffold_n50": get(rec, f"{st}.scaffold_n50"),
-        "number_of_contigs": get(rec, f"{st}.number_of_contigs"),
-        "number_of_scaffolds": get(rec, f"{st}.number_of_scaffolds"),
+        #"gc_percent": get(rec, f"{st}.gc_percent"),
+        #"contig_n50": get(rec, f"{st}.contig_n50"),
+        #"scaffold_n50": get(rec, f"{st}.scaffold_n50"),
+        #"number_of_contigs": get(rec, f"{st}.number_of_contigs"),
+        #"number_of_scaffolds": get(rec, f"{st}.number_of_scaffolds"),
         "annotated": "yes" if rec.get("annotation_info") else "no",
     }
     for rank in LINEAGE_COLUMNS:
